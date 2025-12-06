@@ -1,2 +1,1 @@
-# cs695_test
-testing repo
+# cs685_project
