@@ -1,0 +1,4269 @@
+[
+  {
+    "id": 1,
+    "query": "Surrealist Memes: Regression or Progression?",
+    "summary": [
+      {
+        "claim": "Surrealist memes represent progression in meme art.",
+        "perspective": "Perspectives supporting or relating to the claim that surreal memes represent progression in meme art.",
+        "evidence_docs": [
+          205,
+          364
+        ]
+      },
+      {
+        "claim": "Surrealist memes are taking meme art back centuries (well, ok, decade).",
+        "perspective": "Perspectives supporting or relating to the claim that surreal memes are taking meme art back centuries (well, ok, decade).",
+        "evidence_docs": [
+          1138,
+          858
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 2,
+    "query": "Throwback TV: Friends or Seinfeld?",
+    "summary": [
+      {
+        "claim": "Why Friends is better than Seinfeld",
+        "perspective": "Perspectives supporting or relating to the claim that Friends is better than Seinfeld",
+        "evidence_docs": [
+          1197,
+          482
+        ]
+      },
+      {
+        "claim": "Why Seinfeld is better than Friends",
+        "perspective": "Perspectives supporting or relating to the claim that Seinfeld is better than Friends",
+        "evidence_docs": [
+          867
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 3,
+    "query": "Should Gwyneth Paltrow be admired or criticized?",
+    "summary": [
+      {
+        "claim": "Gwyneth Paltrow should be admired for her ability to redefine modern family and her resilience in speaking out against sexual harassment",
+        "perspective": "Perspectives supporting or relating to the claim that Gwyneth Paltrow should be admired",
+        "evidence_docs": [
+          568,
+          772
+        ]
+      },
+      {
+        "claim": "Gwyneth Paltrow should not be idolized for her promotion of pseudo-scientific products and services",
+        "perspective": "Perspectives opposing or relating to the claim that Gwyneth Paltrow should not be idolized",
+        "evidence_docs": [
+          1019
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 4,
+    "query": "The Perspective on Reality TV",
+    "summary": [
+      {
+        "claim": "Keep it Real",
+        "perspective": "Reality TV can be detrimental to the lives of its participants, leading to divorce and personal struggles.",
+        "evidence_docs": [
+          433,
+          420
+        ]
+      },
+      {
+        "claim": "Reality Bites",
+        "perspective": "Reality TV can be a platform for diverse stories and humanization of marginalized groups, promoting a broader understanding of society.",
+        "evidence_docs": [
+          420,
+          3419
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 5,
+    "query": "Should we Fight or Embrace Illegal Downloads?",
+    "summary": [
+      {
+        "claim": "Piracy is the new black",
+        "perspective": "Perspectives supporting or relating to the claim that piracy is the new black",
+        "evidence_docs": [
+          620,
+          870
+        ]
+      },
+      {
+        "claim": "Piracy is unacceptable",
+        "perspective": "Perspectives supporting or relating to the claim that piracy is unacceptable",
+        "evidence_docs": [
+          3014
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 6,
+    "query": "How Should We View Michael Jackson’s legacy?",
+    "summary": [
+      {
+        "claim": "How Should We View Michael Jackson’s legacy?",
+        "perspective": "Perspectives on Michael Jackson’s legacy",
+        "evidence_docs": [
+          454,
+          961,
+          528,
+          362,
+          416
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 7,
+    "query": "Disney Animated Films – Are they good for children?",
+    "summary": [
+      {
+        "claim": "Disney Animated Films are good for children",
+        "perspective": "Perspectives supporting or relating to the claim that Disney Animated Films are good for children",
+        "evidence_docs": [
+          459,
+          271,
+          853
+        ]
+      },
+      {
+        "claim": "Disney Animated Films are not good for children",
+        "perspective": "Perspectives supporting or relating to the claim that Disney Animated Films are not good for children",
+        "evidence_docs": [
+          462,
+          672
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 8,
+    "query": "(Titanic) Could Jack have been saved?",
+    "summary": [
+      {
+        "claim": "Jack could have fit on the door with Rose",
+        "perspective": "Perspectives supporting or relating to the claim that Jack could have fit on the door with Rose",
+        "evidence_docs": [
+          331,
+          134
+        ]
+      },
+      {
+        "claim": "Jack could not have fit on the door with Rose",
+        "perspective": "Perspectives supporting or relating to the claim that Jack could not have fit on the door with Rose",
+        "evidence_docs": [
+          464,
+          722
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 9,
+    "query": "Which is better: Star Wars Vs. Star Trek?",
+    "summary": [
+      {
+        "claim": "Why Star Wars is Better",
+        "perspective": "Perspectives supporting or relating to the claim that Star Wars is better than Star Trek",
+        "evidence_docs": [
+          202,
+          810
+        ]
+      },
+      {
+        "claim": "Why Star Trek is Better",
+        "perspective": "Perspectives supporting or relating to the claim that Star Trek is better than Star Wars",
+        "evidence_docs": [
+          3278,
+          394
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 10,
+    "query": "Is Binge-Watching a harmless or helpful activity?",
+    "summary": [
+      {
+        "claim": "Is Binge-Watching a harmless or helpful activity?",
+        "perspective": "Both perspectives",
+        "evidence_docs": [
+          675,
+          878
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 11,
+    "query": "Is Harley Quinn a Villain or a Tragic Character?",
+    "summary": [
+      {
+        "claim": "Harley got the raw end of the deal.",
+        "perspective": "Perspectives supporting or relating to Harley got the raw end of the deal",
+        "evidence_docs": [
+          803,
+          1027
+        ]
+      },
+      {
+        "claim": "Harley is a villain and doesn’t deserve sympathy.",
+        "perspective": "Perspectives supporting or relating to Harley is a villain and doesn’t deserve sympathy",
+        "evidence_docs": [
+          832
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 12,
+    "query": "Is Kanye West a Great Artist or a Great Marketer?",
+    "summary": [
+      {
+        "claim": "Kanye West as a Great Artist",
+        "perspective": "Perspectives supporting or relating to Kanye West as a Great Artist",
+        "evidence_docs": [
+          721,
+          573
+        ]
+      },
+      {
+        "claim": "Kanye West as a Great Marketer",
+        "perspective": "Perspectives supporting or relating to Kanye West as a Great Marketer",
+        "evidence_docs": [
+          573,
+          1653
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 13,
+    "query": "Hamilton – overrated or worth the hype?",
+    "summary": [
+      {
+        "claim": "First claim",
+        "perspective": "Perspectives supporting or relating to the first claim",
+        "evidence_docs": []
+      },
+      {
+        "claim": "Second claim",
+        "perspective": "Perspectives supporting or relating to the second claim",
+        "evidence_docs": []
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 14,
+    "query": "Is Hollywood too white?",
+    "summary": [
+      {
+        "claim": "Hollywood Is Embracing Diversity",
+        "perspective": " \n\n```json\n[\n    {\n        \"claim\": \"Hollywood Is Embracing Diversity\",\n        \"perspective\": \"Some roles are written for ethnically diverse characters. Unfortunately, by and large, Hollywood prefers white actors to play them. Whitewashing has a long history in American film, from Mickey Rooney’s Japanese caricature, Mr. Yunioshi, in Breakfast at Tiffany’s to Jonny Depp’s take on Tonto, John Wayne’s Native American sidekick. Whitewashing takes more forms than just appointing white actors to roles written for non-white characters. In films based on true stories, the story’s real-life inspiration, if an ethnic minority, is often portrayed as white onscreen. Ben Affleck’s Argo completely erased protagonist Antonio Mendez’s Chicano heritage. John Ma, the blackjack virtuoso of Chinese descent upon whom the film 21 is based, onscreen becomes Ben Campbell, a generic, Hollywood-approved white guy.\",\n        \"evidence_docs\": [240, 1104]\n    },\n    {\n        \"claim\": \"Hollywood Is Too White\",\n        \"perspective\": \"Hollywood casting offices underrepresent people of color. In the United States, ethnic minorities constitute at least 40% of the",
+        "evidence_docs": [
+          984,
+          240,
+          772
+        ]
+      },
+      {
+        "claim": "Hollywood Is Too White",
+        "perspective": " \n\n```json\n[\n    {\n        \"claim\": \"Hollywood Is Embracing Diversity\",\n        \"perspective\": \"Some roles are written for ethnically diverse characters. Unfortunately, by and large, Hollywood prefers white actors to play them. Whitewashing has a long history in American film, from Mickey Rooney’s Japanese caricature, Mr. Yunioshi, in Breakfast at Tiffany’s to Jonny Depp’s take on Tonto, John Wayne’s Native American sidekick. Whitewashing takes more forms than just appointing white actors to roles written for non-white characters. In films based on true stories, the story’s real-life inspiration, if an ethnic minority, is often portrayed as white onscreen. Ben Affleck’s Argo completely erased protagonist Antonio Mendez’s Chicano heritage. John Ma, the blackjack virtuoso of Chinese descent upon whom the film 21 is based, onscreen becomes Ben Campbell, a generic, Hollywood-approved white guy.\",\n        \"evidence_docs\": [240, 1104]\n    },\n    {\n        \"claim\": \"Hollywood Is Too White\",\n        \"perspective\": \"Hollywood casting offices underrepresent people of color. In the United States, ethnic minorities constitute at least 40% of the",
+        "evidence_docs": [
+          984,
+          240,
+          772
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 15,
+    "query": "Game of Thrones: Epic or Epic Fail?",
+    "summary": [
+      {
+        "claim": "Epic Fail",
+        "perspective": "The show's inability to coalesce its various genres and elements makes it a mess.",
+        "evidence_docs": [
+          1105
+        ]
+      },
+      {
+        "claim": "Epic",
+        "perspective": "Game of Thrones possesses a surprising amount of egalitarian themes, with women having as much authority and power as men.",
+        "evidence_docs": [
+          920
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 16,
+    "query": "Battle of the Bonds: Daniel Craig or Sean Connery?",
+    "summary": [
+      {
+        "claim": "Daniel Craig is the best James Bond",
+        "perspective": "Perspectives supporting or relating to Daniel Craig being the best James Bond",
+        "evidence_docs": [
+          395,
+          1158
+        ]
+      },
+      {
+        "claim": "Sean Connery is the best James Bond",
+        "perspective": "Perspectives supporting or relating to Sean Connery being the best James Bond",
+        "evidence_docs": [
+          282,
+          44
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 17,
+    "query": "Should We Cheer for Beauty Pageants or Call for Their Demise?",
+    "summary": [
+      {
+        "claim": "Long Live Beauty Pageants",
+        "perspective": "Beauty pageants can be a platform for women to gain confidence and self-esteem, as well as a way to raise awareness and funds for various causes.",
+        "evidence_docs": [
+          372,
+          2067
+        ]
+      },
+      {
+        "claim": "Let’s Call an End to Beauty Pageants",
+        "perspective": "Beauty pageants can be detrimental to contestants' physical and mental health, perpetuating unrealistic beauty standards and promoting unhealthy behaviors.",
+        "evidence_docs": [
+          287,
+          405
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 18,
+    "query": "How great is ‘great literature’ if it needs to be studied to be understood?",
+    "summary": [
+      {
+        "claim": "How great is ‘great literature’ if it needs to be studied to be understood?",
+        "perspective": "The study of Great Literature can be alienating and may lead readers to lose touch with books.",
+        "evidence_docs": [
+          244
+        ]
+      },
+      {
+        "claim": "However, studying Great Literature can also be beneficial and lead to a deeper understanding of oneself and the world.",
+        "perspective": "By deconstructing literature, we can place ourselves in these plots and identify a sense of purpose; we can challenge ourselves and our beliefs.",
+        "evidence_docs": [
+          904,
+          549
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 19,
+    "query": "Back to the Future: Musical or Movie. Which is better?",
+    "summary": [
+      {
+        "claim": "The Musical",
+        "perspective": "The Musical is better than the movie because it has more depth and originality.",
+        "evidence_docs": [
+          293,
+          978
+        ]
+      },
+      {
+        "claim": "The Movie",
+        "perspective": "The movie is better than the musical because it has more action scenes and nostalgic value.",
+        "evidence_docs": [
+          694,
+          484
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 20,
+    "query": "Does Nicki Minaj Empower or Objectify women?",
+    "summary": [
+      {
+        "claim": "Nicki Minaj Empowers Women",
+        "perspective": "Perspectives supporting or relating to the claim that Nicki Minaj empowers women",
+        "evidence_docs": [
+          257,
+          726
+        ]
+      },
+      {
+        "claim": "Nicki Minaj Weakens Feminist Cause",
+        "perspective": "Perspectives supporting or relating to the claim that Nicki Minaj weakens the feminist cause",
+        "evidence_docs": [
+          98,
+          577,
+          788
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 21,
+    "query": "Moulin Rouge or Mr. Saturday Night: Which Is The Hottest Ticket on Broadway?",
+    "summary": [
+      {
+        "claim": "Moulin Rouge is the hottest ticket on Broadway",
+        "perspective": "The show offers countless breathtaking moments that are etched into the spectator’s mind.",
+        "evidence_docs": [
+          270,
+          295
+        ]
+      },
+      {
+        "claim": "Mr. Saturday Night is the hottest ticket on Broadway",
+        "perspective": "The show is a fully rounded play with songs more so than just a musical.",
+        "evidence_docs": [
+          1146
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 22,
+    "query": "Should Celebrities Expect Privacy?",
+    "summary": [
+      {
+        "claim": "Should Celebrities Expect Privacy?",
+        "perspective": "Celebrities should not expect privacy",
+        "evidence_docs": [
+          3965,
+          396,
+          3931,
+          3058,
+          3057
+        ]
+      },
+      {
+        "claim": "Celebrities should expect privacy",
+        "perspective": "Celebrities should expect privacy",
+        "evidence_docs": [
+          396,
+          3931,
+          3058,
+          3057,
+          3965
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 23,
+    "query": "Do Artists with seriously questionable morals deserve fame?",
+    "summary": [
+      {
+        "claim": "Art Lives Separately From The Artist That Created It",
+        "perspective": "Perspectives supporting or relating to the claim that art lives separately from the artist that created it",
+        "evidence_docs": [
+          1618,
+          1590,
+          1593
+        ]
+      },
+      {
+        "claim": "Why Immoral People Don’t Deserve Fame For Their Art",
+        "perspective": "Perspectives supporting or relating to the claim that immoral people don’t deserve fame for their art",
+        "evidence_docs": [
+          51,
+          1591
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 24,
+    "query": "The Perspective on Comic-Con: Is It Worth Attending?",
+    "summary": [
+      {
+        "claim": "Don’t Forget to Pack Your Costume!",
+        "perspective": "Comic-Con as a safe haven for self-expression",
+        "evidence_docs": [
+          537,
+          903
+        ]
+      },
+      {
+        "claim": "Comic-Con is getting increasingly mainstream and watered down",
+        "perspective": "Concerns about the commercialization of Comic-Con",
+        "evidence_docs": [
+          793,
+          1061
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 25,
+    "query": "Is slam an accepted form of poetry?",
+    "summary": [
+      {
+        "claim": "Is slam an accepted form of poetry?",
+        "perspective": "Some argue that slam is not poetry, while others believe it is.",
+        "evidence_docs": [
+          939,
+          399
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 26,
+    "query": "Does Fox News add balance or propaganda to the media landscape?",
+    "summary": [
+      {
+        "claim": "Fox News adds balance to the media landscape",
+        "perspective": "Perspectives supporting or relating to the claim that Fox News adds balance to the media landscape",
+        "evidence_docs": [
+          560,
+          578
+        ]
+      },
+      {
+        "claim": "Fox News adds propaganda to the media landscape",
+        "perspective": "Perspectives supporting or relating to the claim that Fox News adds propaganda to the media landscape",
+        "evidence_docs": [
+          987,
+          1000
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 27,
+    "query": "Is a Hotdog a Sandwich?",
+    "summary": [
+      {
+        "claim": "Is a hotdog a sandwich?",
+        "perspective": "Perspectives supporting or relating to the claim",
+        "evidence_docs": [
+          123,
+          456,
+          789
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 28,
+    "query": "Do Standardized Tests Improve Education?",
+    "summary": [
+      {
+        "claim": "Standardized tests improve education",
+        "perspective": "Perspectives supporting or relating to the claim that standardized tests improve education",
+        "evidence_docs": [
+          2558,
+          964,
+          2557
+        ]
+      },
+      {
+        "claim": "Standardized tests negatively impact education",
+        "perspective": "Perspectives supporting or relating to the claim that standardized tests negatively impact education",
+        "evidence_docs": [
+          985,
+          827
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 29,
+    "query": "The Perspective on Time – Is It Linear or Cyclical?",
+    "summary": [
+      {
+        "claim": "Time is linear",
+        "perspective": "Perspectives supporting or relating to the claim that time is linear",
+        "evidence_docs": [
+          966,
+          981,
+          166,
+          993
+        ]
+      },
+      {
+        "claim": "Time is cyclical",
+        "perspective": "Perspectives supporting or relating to the claim that time is cyclical",
+        "evidence_docs": [
+          166,
+          2202
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 30,
+    "query": "Milk: Is It Healthy or Harmful to Drink?",
+    "summary": [
+      {
+        "claim": "Is milk healthy or harmful to drink?",
+        "perspective": "Some researchers argue that milk is not necessary for adults and can be replaced by plant-based alternatives.",
+        "evidence_docs": [
+          1012,
+          656
+        ]
+      },
+      {
+        "claim": "Milk may contribute to health problems as opposed to preventing them.",
+        "perspective": "Decades of research assert that milk may contribute to health problems such as Type 1 diabetes, coronary heart disease, and cancer.",
+        "evidence_docs": [
+          117,
+          652
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 31,
+    "query": "Climate Change – Act now, or question the urgency of the threat?",
+    "summary": [
+      {
+        "claim": "Act now",
+        "perspective": "Perspectives supporting the urgency of climate change",
+        "evidence_docs": [
+          3366,
+          2128,
+          2127
+        ]
+      },
+      {
+        "claim": "Question the urgency of the threat",
+        "perspective": "Perspectives questioning the urgency of climate change",
+        "evidence_docs": [
+          3791,
+          3880
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 32,
+    "query": "The Perspective on the Public Apology",
+    "summary": [
+      {
+        "claim": "The Good in a Public Apology",
+        "perspective": "Perspectives supporting the good in a public apology",
+        "evidence_docs": [
+          689,
+          1011,
+          729
+        ]
+      },
+      {
+        "claim": "The Harm In a Public Apology",
+        "perspective": "Perspectives highlighting the harm in a public apology",
+        "evidence_docs": [
+          1133,
+          505
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 33,
+    "query": "The Perspective on Political Correctness",
+    "summary": [
+      {
+        "claim": "PC Culture Benefits Us All",
+        "perspective": "Perspectives supporting or relating to the claim that PC culture benefits us all",
+        "evidence_docs": [
+          95,
+          811
+        ]
+      },
+      {
+        "claim": "PC Culture is Limiting at Best, Dangerous at Worst",
+        "perspective": "Perspectives supporting or relating to the claim that PC culture is limiting at best, dangerous at worst",
+        "evidence_docs": [
+          1800,
+          2699
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 34,
+    "query": "Is America Still Great?",
+    "summary": [
+      {
+        "claim": "Is America Still Great?",
+        "perspective": "America's greatness is being questioned",
+        "evidence_docs": [
+          401,
+          491,
+          292,
+          648,
+          1653
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 35,
+    "query": "Can People Change Their Minds?",
+    "summary": [
+      {
+        "claim": "Can people change their minds?",
+        "perspective": "Some people believe that people can change their minds, while others argue that it is not possible.",
+        "evidence_docs": [
+          651,
+          1213,
+          408
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 36,
+    "query": "Should We Ban Unpaid Internships?",
+    "summary": [
+      {
+        "claim": "Should We Ban Unpaid Internships?",
+        "perspective": "Three Reasons to Support Unpaid Internships",
+        "evidence_docs": [
+          944,
+          982
+        ]
+      },
+      {
+        "claim": "Should We Ban Unpaid Internships?",
+        "perspective": "Three Reasons Why Unpaid Internships are a Bad Idea",
+        "evidence_docs": [
+          1192,
+          284
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 37,
+    "query": "The Perspective on Abortion: Should it be a viable option?",
+    "summary": [
+      {
+        "claim": "Should abortion be a viable option?",
+        "perspective": "Perspectives supporting or relating to the viability of abortion as an option",
+        "evidence_docs": [
+          2708,
+          1118,
+          2436
+        ]
+      },
+      {
+        "claim": "Abortion should be illegal",
+        "perspective": "Perspectives opposing or relating to the illegality of abortion",
+        "evidence_docs": [
+          3863
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 38,
+    "query": "The US coronavirus response: Have we done enough or not?",
+    "summary": [
+      {
+        "claim": "Not Doing Enough",
+        "perspective": "Perspectives supporting or relating to the claim that the US coronavirus response is not doing enough",
+        "evidence_docs": [
+          2272,
+          1556,
+          1911,
+          1245
+        ]
+      },
+      {
+        "claim": "Doing Enough",
+        "perspective": "Perspectives supporting or relating to the claim that the US coronavirus response is doing enough",
+        "evidence_docs": [
+          634
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 39,
+    "query": "ADHD Diagnosis:  Too Much or Just Right?",
+    "summary": [
+      {
+        "claim": "ADHD diagnosis is on point",
+        "perspective": "Perspectives supporting the accuracy of ADHD diagnosis",
+        "evidence_docs": [
+          1095,
+          704,
+          422
+        ]
+      },
+      {
+        "claim": "ADHD is over-diagnosed",
+        "perspective": "Perspectives questioning the accuracy of ADHD diagnosis",
+        "evidence_docs": [
+          1095,
+          164,
+          366
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 40,
+    "query": "Is the Body Positive Movement as Positive as it suggests?",
+    "summary": [
+      {
+        "claim": "Is the Body Positive Movement as Positive as it suggests?",
+        "perspective": "Pro-BoPo",
+        "evidence_docs": [
+          2852,
+          670
+        ]
+      },
+      {
+        "claim": "The Body Positive Movement is not as positive as it suggests.",
+        "perspective": "BoPo Cons",
+        "evidence_docs": [
+          3676,
+          1395
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 41,
+    "query": "Montessori: An Effective Learning Approach or a Matter of Faith?",
+    "summary": [
+      {
+        "claim": "Montessori works wonders",
+        "perspective": "Perspectives supporting or relating to the effectiveness of Montessori education",
+        "evidence_docs": [
+          1228,
+          298
+        ]
+      },
+      {
+        "claim": "Montessori has serious deficiencies",
+        "perspective": "Perspectives criticizing or relating to the limitations of Montessori education",
+        "evidence_docs": [
+          662,
+          720,
+          636
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 42,
+    "query": "Is Honesty the Best Policy?",
+    "summary": [
+      {
+        "claim": "Honesty is the Best Policy",
+        "perspective": "Perspectives supporting honesty as the best policy",
+        "evidence_docs": [
+          450,
+          598
+        ]
+      },
+      {
+        "claim": "Other Policies are Better",
+        "perspective": "Perspectives supporting other policies as better than honesty",
+        "evidence_docs": [
+          318,
+          901
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 43,
+    "query": "Should we depend on fossil fuels or renewable energy?",
+    "summary": [
+      {
+        "claim": "Should we depend on fossil fuels or renewable energy?",
+        "perspective": "Dependence on fossil fuels",
+        "evidence_docs": [
+          105,
+          144,
+          167
+        ]
+      },
+      {
+        "claim": "Renewable energy is a cleaner and more sustainable option",
+        "perspective": "Dependence on renewable energy",
+        "evidence_docs": [
+          105,
+          1072,
+          2314
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 44,
+    "query": "Climate Change – Act now, or question the urgency of the threat?",
+    "summary": [
+      {
+        "claim": "Act now",
+        "perspective": "Perspectives supporting the urgency of climate change",
+        "evidence_docs": [
+          3366,
+          2128,
+          2127
+        ]
+      },
+      {
+        "claim": "Question the urgency of the threat",
+        "perspective": "Perspectives questioning the urgency of climate change",
+        "evidence_docs": [
+          3791,
+          3880
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 45,
+    "query": "Open vs. Closed Space Work Environments",
+    "summary": [
+      {
+        "claim": "Open spaces are better",
+        "perspective": "Perspectives supporting or relating to the claim that open spaces are better",
+        "evidence_docs": [
+          99,
+          775,
+          1727
+        ]
+      },
+      {
+        "claim": "Closed spaces are better",
+        "perspective": "Perspectives supporting or relating to the claim that closed spaces are better",
+        "evidence_docs": [
+          713,
+          72
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 46,
+    "query": "Comfortably Numb: The Perspective on epidurals",
+    "summary": [
+      {
+        "claim": "Pass the Ether (Pro-Epidurals)",
+        "perspective": "Supporting the use of epidurals for maximum control and participation in deliveries, with a focus on minimizing adverse effects on fetal health and mother's health.",
+        "evidence_docs": [
+          73,
+          534
+        ]
+      },
+      {
+        "claim": "Pass on the Ether (Against Epidurals)",
+        "perspective": "Highlighting the potential risks and side effects of epidurals, including rare but serious complications, and the possibility of ineffectiveness.",
+        "evidence_docs": [
+          946,
+          2923,
+          2949
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 47,
+    "query": "Breast vs. Bottle: which is better for babies?",
+    "summary": [
+      {
+        "claim": "Breast milk contains many of the immunities that the mother has accrued in life",
+        "perspective": "Perspectives supporting breast milk as the better option",
+        "evidence_docs": [
+          3174,
+          3173
+        ]
+      },
+      {
+        "claim": "Bottle-feeding is a symbol of scientific parenting and modernity, and parents were eager to embrace it",
+        "perspective": "Perspectives supporting bottle-feeding as a viable option",
+        "evidence_docs": [
+          1173
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 48,
+    "query": "The Perspective on Prom – Antiquated or Timeless?",
+    "summary": [
+      {
+        "claim": "Party on!",
+        "perspective": "Perspectives supporting the idea that prom is a fun and enjoyable event",
+        "evidence_docs": [
+          524,
+          1172
+        ]
+      },
+      {
+        "claim": "Sit this dance out.",
+        "perspective": "Perspectives opposing the idea that prom is a fun and enjoyable event",
+        "evidence_docs": [
+          445,
+          663
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 49,
+    "query": "Are Vaccines Safe or Risky for Your Kids?",
+    "summary": [
+      {
+        "claim": "Vaccines are safe for your kids",
+        "perspective": "Perspectives supporting or relating to the claim that vaccines are safe for your kids",
+        "evidence_docs": [
+          187,
+          1229
+        ]
+      },
+      {
+        "claim": "Vaccines may be risky for your kids",
+        "perspective": "Perspectives supporting or relating to the claim that vaccines may be risky for your kids",
+        "evidence_docs": [
+          1229,
+          128
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 50,
+    "query": "The Perspective on Circumcision",
+    "summary": [
+      {
+        "claim": "Arguments for circumcision",
+        "perspective": "Perspectives supporting or relating to the argument for circumcision",
+        "evidence_docs": [
+          527,
+          343
+        ]
+      },
+      {
+        "claim": "Arguments against circumcision",
+        "perspective": "Perspectives supporting or relating to the argument against circumcision",
+        "evidence_docs": [
+          897,
+          897
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 51,
+    "query": "The Perspective on Ayahuasca: Is it worth trying?",
+    "summary": [
+      {
+        "claim": "An antidote for the soul",
+        "perspective": "Ayahuasca can help people face and overcome their fears, or loss, as was the case with Prince Harry, providing perspective, and improving overall mood.",
+        "evidence_docs": [
+          865,
+          956
+        ]
+      },
+      {
+        "claim": "Hugs, not drugs",
+        "perspective": "Taking ayahuasca can lead to a transformative experience, but it may also cause psychotic episodes, particularly in people with a history of mental illness.",
+        "evidence_docs": [
+          355,
+          1017
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 52,
+    "query": "The Perspective on Physician-Assisted Suicide",
+    "summary": [
+      {
+        "claim": "Life support, not death support",
+        "perspective": "Perspectives opposing physician-assisted suicide",
+        "evidence_docs": [
+          1940,
+          3804
+        ]
+      },
+      {
+        "claim": "Live and let die",
+        "perspective": "Perspectives supporting physician-assisted suicide",
+        "evidence_docs": [
+          1938,
+          1894
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 53,
+    "query": "Should homework be assigned in elementary school?",
+    "summary": [
+      {
+        "claim": "Should homework be assigned in elementary school?",
+        "perspective": "Both sides of the debate",
+        "evidence_docs": [
+          268,
+          3872,
+          1054
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 54,
+    "query": "Are Government Soda Taxes Fair?",
+    "summary": [
+      {
+        "claim": "The Soda Tax Is a Good Idea",
+        "perspective": "Perspectives supporting the soda tax as a means to promote public health and reduce sugar consumption",
+        "evidence_docs": [
+          345,
+          660
+        ]
+      },
+      {
+        "claim": "The Soda Tax Is Wrong",
+        "perspective": "Perspectives opposing the soda tax as an infringement on personal freedom and a potential burden on low-income families",
+        "evidence_docs": [
+          769,
+          96,
+          3319
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 55,
+    "query": "Is There Life After Death?",
+    "summary": [
+      {
+        "claim": "Is There Life After Death?",
+        "perspective": "There is no life after death",
+        "evidence_docs": [
+          226
+        ]
+      },
+      {
+        "claim": "Life may not stop immediately after death",
+        "perspective": "There may be life after death",
+        "evidence_docs": [
+          1226
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 56,
+    "query": "Is Cognitive Behavioral Therapy (CBT) Effective?",
+    "summary": [
+      {
+        "claim": "Is Cognitive Behavioral Therapy (CBT) Effective?",
+        "perspective": "Arguments for CBT",
+        "evidence_docs": [
+          130,
+          69
+        ]
+      },
+      {
+        "claim": "CBT might only be a temporary solution for a bigger problem that needs to be confronted",
+        "perspective": "Arguments Against CBT",
+        "evidence_docs": [
+          496
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 57,
+    "query": "Is Scientology a Religion?",
+    "summary": [
+      {
+        "claim": "Scientology is a religion",
+        "perspective": "Perspectives supporting or relating to the claim that Scientology is a religion",
+        "evidence_docs": [
+          417,
+          404,
+          914
+        ]
+      },
+      {
+        "claim": "Scientology’s claims to religion are suspect",
+        "perspective": "Perspectives supporting or relating to the claim that Scientology’s claims to religion are suspect",
+        "evidence_docs": [
+          255,
+          3676
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 58,
+    "query": "Should bible stories be regarded as history?",
+    "summary": [
+      {
+        "claim": "Should bible stories be regarded as history?",
+        "perspective": "Perspectives supporting the claim that bible stories can be regarded as history",
+        "evidence_docs": [
+          207,
+          334
+        ]
+      },
+      {
+        "claim": "Should bible stories be regarded as history?",
+        "perspective": "Perspectives opposing the claim that bible stories can be regarded as history",
+        "evidence_docs": [
+          1057,
+          333
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 59,
+    "query": "Should We Cheer for Beauty Pageants or Call for Their Demise?",
+    "summary": [
+      {
+        "claim": "Long Live Beauty Pageants",
+        "perspective": "Beauty pageants can be beneficial for contestants' educational opportunities and improve their current living situations.",
+        "evidence_docs": [
+          372,
+          1123
+        ]
+      },
+      {
+        "claim": "Let’s Call an End to Beauty Pageants",
+        "perspective": "Beauty pageants can be viewed as feeding insecurities and real health risks for contestants, and cultivate the exact opposite ideals of body acceptance and self-love.",
+        "evidence_docs": [
+          2067,
+          405
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 60,
+    "query": "Can the Use of Torture Be Justified?",
+    "summary": [
+      {
+        "claim": "Torture is abominable, no matter the circumstances",
+        "perspective": "Perspectives arguing against the use of torture",
+        "evidence_docs": [
+          1765,
+          617
+        ]
+      },
+      {
+        "claim": "Torture is a justifiable last resort",
+        "perspective": "Perspectives arguing in favor of the use of torture",
+        "evidence_docs": [
+          264,
+          535,
+          383
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 61,
+    "query": "Should Adopted Children Be Involved with Their Birth Families?",
+    "summary": [
+      {
+        "claim": "Should Adopted Children Be Involved with Their Birth Families?",
+        "perspective": "Open the Door",
+        "evidence_docs": [
+          214,
+          1093
+        ]
+      },
+      {
+        "claim": "Should Adopted Children Be Involved with Their Birth Families?",
+        "perspective": "Close the Door",
+        "evidence_docs": [
+          68
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 62,
+    "query": "Does the Bible Lift Women Up or Tear Them Down?",
+    "summary": [
+      {
+        "claim": "The Bible Lifts Women Up",
+        "perspective": "Perspectives supporting the claim that the Bible lifts women up",
+        "evidence_docs": [
+          207,
+          334
+        ]
+      },
+      {
+        "claim": "The Bible Tears Women Down",
+        "perspective": "Perspectives supporting the claim that the Bible tears women down",
+        "evidence_docs": [
+          119,
+          1090
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 63,
+    "query": "Should Prostitution be legalized?",
+    "summary": [
+      {
+        "claim": "Legalize prostitution to improve the safety and well-being of sex workers and their clients",
+        "perspective": "Perspectives supporting the legalization of prostitution",
+        "evidence_docs": [
+          3583,
+          3585,
+          1201,
+          237
+        ]
+      },
+      {
+        "claim": "Keep prostitution criminalized to protect society from the spread of HIV/AIDS and human trafficking",
+        "perspective": "Perspectives opposing the legalization of prostitution",
+        "evidence_docs": [
+          427
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 64,
+    "query": "Should You Travel Overseas with Small Kids?",
+    "summary": [
+      {
+        "claim": "Should You Travel Overseas with Small Kids?",
+        "perspective": "Traveling with kids overseas is great",
+        "evidence_docs": [
+          631,
+          1111,
+          683
+        ]
+      },
+      {
+        "claim": "Traveling with kids overseas is not for young children",
+        "perspective": "Traveling with kids overseas is not for young children",
+        "evidence_docs": [
+          1010,
+          1256
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 65,
+    "query": "Is gun control justified or an infringement of our rights?",
+    "summary": [
+      {
+        "claim": "Arguments for Gun Control",
+        "perspective": "Perspectives supporting gun control",
+        "evidence_docs": [
+          1767,
+          994
+        ]
+      },
+      {
+        "claim": "Arguments for Gun Ownership",
+        "perspective": "Perspectives supporting gun ownership",
+        "evidence_docs": [
+          1199,
+          1268
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 66,
+    "query": "Are tattoos a welcome form of self-expression or a cause of regret?",
+    "summary": [
+      {
+        "claim": "Are tattoos a welcome form of self-expression or a cause of regret?",
+        "perspective": "Tattoos can be a form of self-expression and enhance self-esteem, but also may lead to regret and negative connotations.",
+        "evidence_docs": [
+          856,
+          133
+        ]
+      },
+      {
+        "claim": "Are tattoos a welcome form of self-expression or a cause of regret?",
+        "perspective": "Tattoos can be a source of regret and negative connotations, especially if chosen impulsively or without careful consideration of their potential meaning.",
+        "evidence_docs": [
+          569,
+          1122
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 67,
+    "query": "Which Came First, the Chicken or the Egg?",
+    "summary": [
+      {
+        "claim": "Eggs in the Lead",
+        "perspective": "The egg came before the chicken, according to evolutionary theory and scientific research.",
+        "evidence_docs": [
+          246,
+          1207,
+          363
+        ]
+      },
+      {
+        "claim": "The Chicken Wins",
+        "perspective": "The chicken came before the egg, according to biblical and cultural traditions.",
+        "evidence_docs": [
+          71,
+          253
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 68,
+    "query": "Are Antidepressants a Good Solution?",
+    "summary": [
+      {
+        "claim": "Are Antidepressants a Good Solution?",
+        "perspective": "The effectiveness of antidepressants in treating depression",
+        "evidence_docs": [
+          196,
+          67,
+          905
+        ]
+      },
+      {
+        "claim": "Antidepressants are a good solution for depression",
+        "perspective": "The benefits of antidepressants in treating depression",
+        "evidence_docs": [
+          67
+        ]
+      },
+      {
+        "claim": "Antidepressants are not a good solution for depression",
+        "perspective": "The risks and side effects of antidepressants",
+        "evidence_docs": [
+          905
+        ]
+      },
+      {
+        "claim": "Antidepressants may not be a good solution for depression",
+        "perspective": "The limitations of antidepressants in treating depression",
+        "evidence_docs": [
+          196,
+          806
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 69,
+    "query": "Does Homework Help or Hinder Learning?",
+    "summary": [
+      {
+        "claim": "Does Homework Help or Hinder Learning?",
+        "perspective": "Perspectives supporting the claim that homework helps learning",
+        "evidence_docs": [
+          3872,
+          807,
+          222
+        ]
+      },
+      {
+        "claim": "Does Homework Help or Hinder Learning?",
+        "perspective": "Perspectives supporting the claim that homework hinders learning",
+        "evidence_docs": [
+          2269,
+          2271
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 70,
+    "query": "The Perspective on Studying Abroad",
+    "summary": [
+      {
+        "claim": "The Upsides of Studying Abroad",
+        "perspective": "Perspectives supporting or relating to the first claim",
+        "evidence_docs": [
+          1200,
+          907
+        ]
+      },
+      {
+        "claim": "The downsides of studying abroad",
+        "perspective": "Perspectives supporting or relating to the second claim",
+        "evidence_docs": [
+          78,
+          519
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 71,
+    "query": "Should Women Serve in Combat Units?",
+    "summary": [
+      {
+        "claim": "Women Deserve a Chance in Combat",
+        "perspective": "Perspectives supporting women serving in combat units",
+        "evidence_docs": [
+          221,
+          161
+        ]
+      },
+      {
+        "claim": "Combat units should be restricted to men",
+        "perspective": "Perspectives opposing women serving in combat units",
+        "evidence_docs": [
+          452
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 72,
+    "query": "Should America adopt paid maternity leave nationwide?",
+    "summary": [
+      {
+        "claim": "Paid maternity leave is good for business",
+        "perspective": "Supporting paid maternity leave",
+        "evidence_docs": [
+          1189,
+          1078
+        ]
+      },
+      {
+        "claim": "Paid maternity leave can harm job prospects",
+        "perspective": "Opposing paid maternity leave",
+        "evidence_docs": [
+          468
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 73,
+    "query": "Is Color Perception a Universal Human Experience?",
+    "summary": [
+      {
+        "claim": "The basics of color perception are shared by all",
+        "perspective": "Perspectives supporting the universality of color perception",
+        "evidence_docs": [
+          688,
+          1128,
+          746
+        ]
+      },
+      {
+        "claim": "Color means different things to different peoples",
+        "perspective": "Perspectives supporting the diversity of color perception",
+        "evidence_docs": [
+          688,
+          1598,
+          702
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 74,
+    "query": "The Perspective on Animal Testing",
+    "summary": [
+      {
+        "claim": "It’s time to leave animal testing behind",
+        "perspective": "Perspectives supporting or relating to the claim that it’s time to leave animal testing behind",
+        "evidence_docs": [
+          3851,
+          111,
+          2551
+        ]
+      },
+      {
+        "claim": "Animal testing is still necessary",
+        "perspective": "Perspectives supporting or relating to the claim that animal testing is still necessary",
+        "evidence_docs": [
+          1695,
+          1692
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 75,
+    "query": "Is Obesity a Disease?",
+    "summary": [
+      {
+        "claim": "Is obesity a disease?",
+        "perspective": "Perspectives supporting the claim that obesity is a disease",
+        "evidence_docs": [
+          1215,
+          989
+        ]
+      },
+      {
+        "claim": "Is obesity a disease?",
+        "perspective": "Perspectives opposing the claim that obesity is a disease",
+        "evidence_docs": [
+          3903,
+          1202
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 76,
+    "query": "Disney Animated Films – Are they good for children?",
+    "summary": [
+      {
+        "claim": "Disney Animated Films are good for children",
+        "perspective": "Perspectives supporting or relating to the claim that Disney Animated Films are good for children",
+        "evidence_docs": [
+          459,
+          271,
+          853
+        ]
+      },
+      {
+        "claim": "Disney Animated Films are not good for children",
+        "perspective": "Perspectives supporting or relating to the claim that Disney Animated Films are not good for children",
+        "evidence_docs": [
+          462,
+          672
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 77,
+    "query": "Sigmund Freud: A timeless genius or overrated?",
+    "summary": [
+      {
+        "claim": "Freud is nothing short of a timeless genius",
+        "perspective": "Perspectives supporting or relating to the claim that Freud is nothing short of a timeless genius",
+        "evidence_docs": [
+          342,
+          1204
+        ]
+      },
+      {
+        "claim": "Freud Is Overrated",
+        "perspective": "Perspectives supporting or relating to the claim that Freud Is Overrated",
+        "evidence_docs": [
+          342,
+          681,
+          154
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 78,
+    "query": "Should Holocaust Education in Schools Be Mandatory?",
+    "summary": [
+      {
+        "claim": "Never forget",
+        "perspective": "Perspectives supporting the importance of remembering the Holocaust",
+        "evidence_docs": [
+          698,
+          223
+        ]
+      },
+      {
+        "claim": "It’s time to move on",
+        "perspective": "Perspectives arguing that the Holocaust should not be a focus of education",
+        "evidence_docs": [
+          1109,
+          3536
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 79,
+    "query": "Redshirting: Should Parents Delay Kindergarten for a Year?",
+    "summary": [
+      {
+        "claim": "More Harm than Good",
+        "perspective": "Perspectives arguing that redshirting is more harmful than beneficial",
+        "evidence_docs": [
+          294,
+          1212
+        ]
+      },
+      {
+        "claim": "Using the Advantage of Time",
+        "perspective": "Perspectives arguing that redshirting allows children to develop their skills and prepare for kindergarten",
+        "evidence_docs": [
+          294,
+          81,
+          2503
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 80,
+    "query": "Is There Life Outside Earth?",
+    "summary": [
+      {
+        "claim": "Is There Life Outside Earth?",
+        "perspective": "Perspectives supporting the existence of life outside Earth",
+        "evidence_docs": [
+          925,
+          1023,
+          348,
+          381
+        ]
+      },
+      {
+        "claim": "There is no life outside Earth",
+        "perspective": "Perspectives opposing the existence of life outside Earth",
+        "evidence_docs": []
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 81,
+    "query": "The Perspective on Having Kids",
+    "summary": [
+      {
+        "claim": "Less is More",
+        "perspective": "Having fewer kids can be beneficial for the country's resources and the kids' development",
+        "evidence_docs": [
+          3186,
+          2202
+        ]
+      },
+      {
+        "claim": "The More the Merrier",
+        "perspective": "Having more kids can be beneficial for the kids' socialization and development",
+        "evidence_docs": [
+          1010,
+          2759
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 82,
+    "query": "Is Monogamy Natural?",
+    "summary": [
+      {
+        "claim": "Monogamy is natural",
+        "perspective": "Some argue that monogamy is natural due to its prevalence in human societies and the biological roots of jealousy.",
+        "evidence_docs": [
+          60,
+          220
+        ]
+      },
+      {
+        "claim": "Monogamy isn’t natural",
+        "perspective": "Others argue that monogamy is not natural due to the high divorce rates, the prevalence of extramarital affairs, and the expansion of non-traditional relationships.",
+        "evidence_docs": [
+          60,
+          175,
+          3556
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 83,
+    "query": "Service Trips Abroad: Harmful or Helpful?",
+    "summary": [
+      {
+        "claim": "People volunteer for the wrong reasons",
+        "perspective": "Perspectives arguing that people volunteer for the wrong reasons",
+        "evidence_docs": [
+          1013,
+          519
+        ]
+      },
+      {
+        "claim": "Volunteering, by nature, is helpful",
+        "perspective": "Perspectives arguing that volunteering, by nature, is helpful",
+        "evidence_docs": [
+          907,
+          3210
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 84,
+    "query": "Are Humans Inherently Violent?",
+    "summary": [
+      {
+        "claim": "Humans are inherently violent",
+        "perspective": "Perspectives supporting or relating to the claim that humans are inherently violent",
+        "evidence_docs": [
+          2513,
+          2322,
+          1356
+        ]
+      },
+      {
+        "claim": "Humans are not inherently violent",
+        "perspective": "Perspectives supporting or relating to the claim that humans are not inherently violent",
+        "evidence_docs": [
+          3058,
+          2409
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 85,
+    "query": "The perspective on divorce",
+    "summary": [
+      {
+        "claim": "First claim",
+        "perspective": "Perspectives supporting or relating to the first claim",
+        "evidence_docs": []
+      },
+      {
+        "claim": "Second claim",
+        "perspective": "Perspectives supporting or relating to the second claim",
+        "evidence_docs": []
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 86,
+    "query": "Do the benefits of crowd-sleuthing outweigh the risks?",
+    "summary": [
+      {
+        "claim": "Do the benefits of crowd-sleuthing outweigh the risks?",
+        "perspective": "Perspectives supporting the benefits of crowd-sleuthing",
+        "evidence_docs": [
+          703,
+          771,
+          123
+        ]
+      },
+      {
+        "claim": "Do the benefits of crowd-sleuthing outweigh the risks?",
+        "perspective": "Perspectives warning about the risks of crowd-sleuthing",
+        "evidence_docs": [
+          703,
+          821
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 87,
+    "query": "Should ‘Black Lives Matter’ Fight For All Lives?",
+    "summary": [
+      {
+        "claim": "Black Lives Matter should focus only on Black Lives",
+        "perspective": "Perspectives arguing that Black Lives Matter should focus on Black Lives",
+        "evidence_docs": [
+          135,
+          157,
+          738
+        ]
+      },
+      {
+        "claim": "All Lives Matter is a better call to arms",
+        "perspective": "Perspectives arguing that All Lives Matter is a better call to arms",
+        "evidence_docs": [
+          784,
+          336
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 88,
+    "query": "The Perspective on Affirmative Action",
+    "summary": [
+      {
+        "claim": "Affirmative action is reverse-racist",
+        "perspective": "Perspectives opposing affirmative action",
+        "evidence_docs": [
+          1396,
+          1220,
+          1452
+        ]
+      },
+      {
+        "claim": "Affirmative action counteracts racism",
+        "perspective": "Perspectives supporting affirmative action",
+        "evidence_docs": [
+          536,
+          754
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 89,
+    "query": "Is the British Monarchy a worthy institution or outdated relic?",
+    "summary": [
+      {
+        "claim": "The British Monarchy is a worthy institution",
+        "perspective": "Perspectives supporting the British Monarchy",
+        "evidence_docs": [
+          16,
+          1495
+        ]
+      },
+      {
+        "claim": "The British Monarchy is an outdated relic",
+        "perspective": "Perspectives opposing the British Monarchy",
+        "evidence_docs": [
+          16,
+          1502
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 90,
+    "query": "The Perspective on Botox",
+    "summary": [
+      {
+        "claim": "Arguments for Botox",
+        "perspective": "Perspectives supporting or relating to the first claim",
+        "evidence_docs": [
+          124,
+          740
+        ]
+      },
+      {
+        "claim": "Arguments against Botox",
+        "perspective": "Perspectives supporting or relating to the second claim",
+        "evidence_docs": [
+          592,
+          178
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 91,
+    "query": "Is it okay to lightly drink with your teenage kid(s)?",
+    "summary": [
+      {
+        "claim": "First claim",
+        "perspective": "Perspectives supporting or relating to the first claim",
+        "evidence_docs": []
+      },
+      {
+        "claim": "Second claim",
+        "perspective": "Perspectives supporting or relating to the second claim",
+        "evidence_docs": []
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 92,
+    "query": "Should We Distribute Condoms in High Schools?",
+    "summary": [
+      {
+        "claim": "Should We Distribute Condoms in High Schools?",
+        "perspective": "Perspectives supporting the distribution of condoms in high schools",
+        "evidence_docs": [
+          145,
+          1029
+        ]
+      },
+      {
+        "claim": "Should We Distribute Condoms in High Schools?",
+        "perspective": "Perspectives opposing the distribution of condoms in high schools",
+        "evidence_docs": [
+          765,
+          1160
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 93,
+    "query": "The Perspective on Surrogacy",
+    "summary": [
+      {
+        "claim": "Surrogacy can create the foundation for a happier, more fulfilled life",
+        "perspective": "Perspectives supporting or relating to the claim that surrogacy can create the foundation for a happier, more fulfilled life",
+        "evidence_docs": [
+          520,
+          379
+        ]
+      },
+      {
+        "claim": "Surrogacy can be problematic in instances where it is used by wealthier people to dominate and degrade women from lower socio-economic backgrounds",
+        "perspective": "Perspectives supporting or relating to the claim that surrogacy can be problematic in instances where it is used by wealthier people to dominate and degrade women from lower socio-economic backgrounds",
+        "evidence_docs": [
+          430
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 94,
+    "query": "Cats or Dogs: Who Makes a Better Companion?",
+    "summary": [
+      {
+        "claim": "Cats make better companions than dogs",
+        "perspective": "Perspectives supporting or relating to the claim that Cats make better companions than dogs",
+        "evidence_docs": [
+          50,
+          163
+        ]
+      },
+      {
+        "claim": "Dogs make better companions than cats",
+        "perspective": "Perspectives supporting or relating to the claim that Dogs make better companions than cats",
+        "evidence_docs": [
+          684,
+          435,
+          623
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 95,
+    "query": "Does Nicki Minaj Empower or Objectify women?",
+    "summary": [
+      {
+        "claim": "Nicki Minaj Empowers Women",
+        "perspective": "Perspectives supporting or relating to the claim that Nicki Minaj empowers women",
+        "evidence_docs": [
+          257,
+          726
+        ]
+      },
+      {
+        "claim": "Nicki Minaj Weakens Feminist Cause",
+        "perspective": "Perspectives supporting or relating to the claim that Nicki Minaj weakens the feminist cause",
+        "evidence_docs": [
+          98,
+          577,
+          788
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 96,
+    "query": "Should we allow smartphones in school?",
+    "summary": [
+      {
+        "claim": "Should we allow smartphones in school?",
+        "perspective": "Allowing smartphones in school",
+        "evidence_docs": [
+          1008,
+          192,
+          576
+        ]
+      },
+      {
+        "claim": "Should we allow smartphones in school?",
+        "perspective": "Not allowing smartphones in school",
+        "evidence_docs": [
+          779
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 97,
+    "query": "Get a Degree or Get A Life? What Should Follow High School?",
+    "summary": [
+      {
+        "claim": "Education is better",
+        "perspective": "Those who believe that education is better than experience",
+        "evidence_docs": [
+          1101,
+          2498,
+          2661
+        ]
+      },
+      {
+        "claim": "Experience is better",
+        "perspective": "Those who believe that experience is better than education",
+        "evidence_docs": [
+          2661,
+          3922
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 98,
+    "query": "Should We Ban the Burqa?",
+    "summary": [
+      {
+        "claim": "The burqa should be banned.",
+        "perspective": "Perspectives arguing that the burqa should be banned due to security concerns and the need to protect women from harassment.",
+        "evidence_docs": [
+          380,
+          27,
+          1223
+        ]
+      },
+      {
+        "claim": "The burqa should be welcomed.",
+        "perspective": "Perspectives arguing that the burqa is a symbol of cultural identity and should not be banned, and that banning it would infringe on individual freedom.",
+        "evidence_docs": [
+          3289,
+          1781
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 99,
+    "query": "Does the KonMari Method truly transform lives?",
+    "summary": [
+      {
+        "claim": "First claim",
+        "perspective": "Perspectives supporting or relating to the first claim",
+        "evidence_docs": []
+      },
+      {
+        "claim": "Second claim",
+        "perspective": "Perspectives supporting or relating to the second claim",
+        "evidence_docs": []
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 100,
+    "query": "Should We Legalize Marijuana?",
+    "summary": [
+      {
+        "claim": "Just say no",
+        "perspective": "Health Risks and Negative Consequences",
+        "evidence_docs": [
+          378,
+          1117
+        ]
+      },
+      {
+        "claim": "Don’t criticize it, legalize it",
+        "perspective": "Economic and Social Benefits",
+        "evidence_docs": [
+          757,
+          574,
+          1937
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 101,
+    "query": "Red Auerbach or Phil Jackson:  Who’s the best NBA coach ever?",
+    "summary": [
+      {
+        "claim": "Red Auerbach or Phil Jackson:  Who’s the best NBA coach ever?",
+        "perspective": "Perspectives supporting or relating to the claim",
+        "evidence_docs": []
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 102,
+    "query": "Is the NFL losing its appeal?",
+    "summary": [
+      {
+        "claim": "The NFL is losing its magic",
+        "perspective": "Some argue that the NFL is losing its magic due to the national anthem protests and the controversy surrounding Colin Kaepernick.",
+        "evidence_docs": [
+          778,
+          603
+        ]
+      },
+      {
+        "claim": "The NFL is losing its appeal",
+        "perspective": "Others believe that the NFL is losing its appeal due to the inconsistent handling of domestic violence allegations and the growing popularity of fantasy football.",
+        "evidence_docs": [
+          323,
+          1136
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 103,
+    "query": "Messi or Ronaldo – who is truly the best?",
+    "summary": [
+      {
+        "claim": "Messi has an advantage over Ronaldo: Messi has won more titles mostly because he plays for a better team, not because he is a better player than Ronaldo.",
+        "perspective": "Team Messi",
+        "evidence_docs": [
+          402
+        ]
+      },
+      {
+        "claim": "Messi makes better decisions and, more importantly, brings greater value to his team.",
+        "perspective": "Team Messi",
+        "evidence_docs": [
+          1052
+        ]
+      },
+      {
+        "claim": "Ronaldo’s international career puts him on a higher level than Messi.",
+        "perspective": "Team Ronaldo",
+        "evidence_docs": [
+          233
+        ]
+      },
+      {
+        "claim": "Ronaldo is a machine. He is an explosive player, with abnormal physical abilities and a huge amount of talent.",
+        "perspective": "Team Ronaldo",
+        "evidence_docs": [
+          751
+        ]
+      },
+      {
+        "claim": "Ronaldo’s combination of physical and technical abilities just makes him better.",
+        "perspective": "Team Ronaldo",
+        "evidence_docs": [
+          732
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 104,
+    "query": "Who is the NFL’s biggest draft bust?",
+    "summary": [
+      {
+        "claim": "Who is the NFL’s biggest draft bust?",
+        "perspective": "Perspectives supporting or relating to the claim that Russell is the NFL’s biggest draft bust",
+        "evidence_docs": [
+          742,
+          603
+        ]
+      },
+      {
+        "claim": "Russell is the NFL’s biggest draft bust",
+        "perspective": "Perspectives supporting or relating to the claim that Russell is the NFL’s biggest draft bust",
+        "evidence_docs": [
+          742,
+          603
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 105,
+    "query": "Are Basketball Players the Best Athletes?",
+    "summary": [
+      {
+        "claim": "Are Basketball Players the Best Athletes?",
+        "perspective": "Perspectives supporting or relating to the claim",
+        "evidence_docs": [
+          585,
+          1148,
+          300
+        ]
+      },
+      {
+        "claim": "Basketball players are the best athletes",
+        "perspective": "Perspectives supporting or relating to the claim",
+        "evidence_docs": [
+          585
+        ]
+      },
+      {
+        "claim": "Basketball players aren’t the best athletes",
+        "perspective": "Perspectives supporting or relating to the claim",
+        "evidence_docs": [
+          1148,
+          300
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 106,
+    "query": "LeBron James Vs. Michael Jordan: Who’s the greatest of all time?",
+    "summary": [
+      {
+        "claim": "LeBron Has Taken Over",
+        "perspective": "Perspectives supporting or relating to LeBron Has Taken Over",
+        "evidence_docs": [
+          177,
+          100,
+          512
+        ]
+      },
+      {
+        "claim": "Jordan Was The Best",
+        "perspective": "Perspectives supporting or relating to Jordan Was The Best",
+        "evidence_docs": [
+          686,
+          1004
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 107,
+    "query": "Let’s watch it again: Should instant replays be used in sports?",
+    "summary": [
+      {
+        "claim": "Argument against Replays",
+        "perspective": "Perspectives opposing the use of instant replays in sports",
+        "evidence_docs": [
+          887,
+          112
+        ]
+      },
+      {
+        "claim": "Arguments for Replays",
+        "perspective": "Perspectives supporting the use of instant replays in sports",
+        "evidence_docs": [
+          376,
+          773,
+          962
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 108,
+    "query": "Do Professional Athletes Deserve Their Inflated Salaries?",
+    "summary": [
+      {
+        "claim": "Professional athletes deserve their inflated salaries",
+        "perspective": "Perspectives supporting or relating to the claim that professional athletes deserve their inflated salaries",
+        "evidence_docs": [
+          1045,
+          1154
+        ]
+      },
+      {
+        "claim": "Professional athletes do not deserve their inflated salaries",
+        "perspective": "Perspectives supporting or relating to the claim that professional athletes do not deserve their inflated salaries",
+        "evidence_docs": [
+          471,
+          653,
+          159
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 109,
+    "query": "The Perspective on Arsène Wenger",
+    "summary": [
+      {
+        "claim": "Arsenal will be better off without Wenger",
+        "perspective": "Perspectives supporting or relating to the claim that Arsenal will be better off without Wenger",
+        "evidence_docs": [
+          792,
+          1041
+        ]
+      },
+      {
+        "claim": "Arsenal should honor Wenger",
+        "perspective": "Perspectives supporting or relating to the claim that Arsenal should honor Wenger",
+        "evidence_docs": [
+          1181,
+          2202
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 110,
+    "query": "Is Roger Federer the best tennis player of all time?",
+    "summary": [
+      {
+        "claim": "Is Roger Federer the best tennis player of all time?",
+        "perspective": "Perspectives supporting or relating to the claim that Federer may not be the best tennis player of all time",
+        "evidence_docs": [
+          589,
+          545
+        ]
+      },
+      {
+        "claim": "Is Roger Federer the best tennis player of all time?",
+        "perspective": "Perspectives supporting or relating to the claim that Federer may be the best tennis player of all time",
+        "evidence_docs": [
+          889
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 111,
+    "query": "Should College Athletes Get Paid?",
+    "summary": [
+      {
+        "claim": "Should College Athletes Get Paid?",
+        "perspective": "Arguments in favor of paying college athletes",
+        "evidence_docs": [
+          275,
+          132
+        ]
+      },
+      {
+        "claim": "Arguments in favor of not paying college athletes",
+        "perspective": "Arguments against paying college athletes",
+        "evidence_docs": [
+          113,
+          1045
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 112,
+    "query": "Is MMA too dangerous?",
+    "summary": [
+      {
+        "claim": "Is MMA too dangerous?",
+        "perspective": "Perspectives supporting or relating to the claim that MMA is too dangerous",
+        "evidence_docs": [
+          552,
+          1006,
+          915
+        ]
+      },
+      {
+        "claim": "MMA is not too dangerous",
+        "perspective": "Perspectives supporting or relating to the claim that MMA is not too dangerous",
+        "evidence_docs": [
+          499,
+          393
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 113,
+    "query": "Magic Johnson vs. Larry Bird – Who is Better?",
+    "summary": [
+      {
+        "claim": "Team Magic",
+        "perspective": "Perspectives supporting or relating to Team Magic",
+        "evidence_docs": [
+          326,
+          1088
+        ]
+      },
+      {
+        "claim": "Team Bird",
+        "perspective": "Perspectives supporting or relating to Team Bird",
+        "evidence_docs": [
+          56,
+          884
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 114,
+    "query": "Muhammad Ali – He Was Great, but Was He the Greatest?",
+    "summary": [
+      {
+        "claim": "He Was Great, but not the Greatest",
+        "perspective": "Perspectives arguing that Ali was great but not the greatest",
+        "evidence_docs": [
+          762,
+          227
+        ]
+      },
+      {
+        "claim": "He was the greatest",
+        "perspective": "Perspectives arguing that Ali was the greatest",
+        "evidence_docs": [
+          1042,
+          3054,
+          465
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 115,
+    "query": "Kobe VS LeBron – who is considered better?",
+    "summary": [
+      {
+        "claim": "LeBron is better than Kobe",
+        "perspective": "Perspectives supporting or relating to the claim that LeBron is better than Kobe",
+        "evidence_docs": [
+          177,
+          687,
+          927
+        ]
+      },
+      {
+        "claim": "Kobe is better than LeBron",
+        "perspective": "Perspectives supporting or relating to the claim that Kobe is better than LeBron",
+        "evidence_docs": [
+          687,
+          927,
+          963
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 116,
+    "query": "Are the 1991 Washington Redskins the Best NFL Team Ever?",
+    "summary": [
+      {
+        "claim": "The 1991 Washington Redskins are the best team ever",
+        "perspective": "Perspectives supporting or relating to the claim that the 1991 Washington Redskins are the best team ever",
+        "evidence_docs": [
+          203,
+          543,
+          1053
+        ]
+      },
+      {
+        "claim": "The 1991 Washington Redskins are not the best team ever",
+        "perspective": "Perspectives supporting or relating to the claim that the 1991 Washington Redskins are not the best team ever",
+        "evidence_docs": [
+          1141,
+          290
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 117,
+    "query": "Does defense win football championships?",
+    "summary": [
+      {
+        "claim": "Does defense win football championships?",
+        "perspective": "Perspectives supporting or relating to the claim",
+        "evidence_docs": []
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 118,
+    "query": "Is Hall of Famer Derek Jeter the best shortstop of all time?",
+    "summary": [
+      {
+        "claim": "Jeter is the best shortstop of all time",
+        "perspective": "Perspectives supporting or relating to the claim that Jeter is the best shortstop of all time",
+        "evidence_docs": [
+          1224,
+          375
+        ]
+      },
+      {
+        "claim": "Jeter was great, but others were better",
+        "perspective": "Perspectives supporting or relating to the claim that Jeter was great, but others were better",
+        "evidence_docs": [
+          700,
+          1060
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 119,
+    "query": "Can Soccer be the next big American sport?",
+    "summary": [
+      {
+        "claim": "Soccer will get bigger",
+        "perspective": "Perspectives supporting or relating to the claim that soccer will get bigger",
+        "evidence_docs": [
+          121,
+          797,
+          1044
+        ]
+      },
+      {
+        "claim": "Soccer may not get bigger",
+        "perspective": "Perspectives supporting or relating to the claim that soccer may not get bigger",
+        "evidence_docs": [
+          525
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 120,
+    "query": "NASCAR or Formula 1 – Which is the prime racing competition?",
+    "summary": [
+      {
+        "claim": "NASCAR",
+        "perspective": "NASCAR drivers’ talent is on full display, No one simply wins because their machine is faster, NASCAR drivers never stop duelling each other for every inch, with a takeover possible at any moment.",
+        "evidence_docs": [
+          1208
+        ]
+      },
+      {
+        "claim": "Formula 1",
+        "perspective": "Formula 1 features the boldest racing engines on the planet, Cars are worth between $12-$15 million, Formula 1 cars use turbochargers and superchargers and reach significantly higher speeds, Every team is given the freedom to innovate to beat the competition.",
+        "evidence_docs": [
+          1059
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 121,
+    "query": "Throwback – Which is the best NBA draft EVER: 1984 or 1996?",
+    "summary": [
+      {
+        "claim": "1984 is the best NBA draft ever",
+        "perspective": "Perspectives supporting or relating to the claim that 1984 is the best NBA draft ever",
+        "evidence_docs": [
+          1107,
+          1225,
+          209
+        ]
+      },
+      {
+        "claim": "1996 is the best NBA draft ever",
+        "perspective": "Perspectives supporting or relating to the claim that 1996 is the best NBA draft ever",
+        "evidence_docs": [
+          1107,
+          344,
+          83
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 122,
+    "query": "The Perspective on Single-Payer Health Care",
+    "summary": [
+      {
+        "claim": "Pro Single-Payer",
+        "perspective": "Supporting single-payer health care",
+        "evidence_docs": [
+          857,
+          841,
+          834
+        ]
+      },
+      {
+        "claim": "Single-Payer Is Not Feasible",
+        "perspective": "Opposing single-payer health care",
+        "evidence_docs": [
+          265,
+          2129
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 123,
+    "query": "Is the Death Penalty Justified or Should It Be Abolished?",
+    "summary": [
+      {
+        "claim": "The death penalty is not an effective deterrent for crime",
+        "perspective": "Arguments against the Death Penalty",
+        "evidence_docs": [
+          1035,
+          118
+        ]
+      },
+      {
+        "claim": "The death penalty can be a cost-effective alternative to life imprisonment",
+        "perspective": "Arguments supporting the death penalty",
+        "evidence_docs": [
+          2026,
+          1885
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 124,
+    "query": "Should ‘Black Lives Matter’ Fight For All Lives?",
+    "summary": [
+      {
+        "claim": "Black Lives Matter should focus only on Black Lives",
+        "perspective": "Perspectives arguing that Black Lives Matter should focus on Black Lives",
+        "evidence_docs": [
+          135,
+          157,
+          738
+        ]
+      },
+      {
+        "claim": "All Lives Matter is a better call to arms",
+        "perspective": "Perspectives arguing that All Lives Matter is a better call to arms",
+        "evidence_docs": [
+          784,
+          336
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 125,
+    "query": "Should convicted criminals have the right to vote?",
+    "summary": [
+      {
+        "claim": "Losing the right to vote shouldn’t be a consequence of committing crime.",
+        "perspective": "Perspectives supporting the claim that losing the right to vote shouldn’t be a consequence of committing crime.",
+        "evidence_docs": [
+          1069,
+          1976,
+          3753
+        ]
+      },
+      {
+        "claim": "Crime deserves punishment, and voting is no exception.",
+        "perspective": "Perspectives supporting the claim that crime deserves punishment, and voting is no exception.",
+        "evidence_docs": [
+          919,
+          3701
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 126,
+    "query": "Should Christopher Columbus be honored or renounced?",
+    "summary": [
+      {
+        "claim": "Columbus the Destroyer",
+        "perspective": "Perspectives opposing Columbus's actions",
+        "evidence_docs": [
+          902,
+          1034,
+          638
+        ]
+      },
+      {
+        "claim": "Columbus the Great Explorer",
+        "perspective": "Perspectives supporting Columbus's actions",
+        "evidence_docs": [
+          957,
+          1034
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 127,
+    "query": "The Perspective on Bill Clinton",
+    "summary": [
+      {
+        "claim": "He ushered in a new era of American prosperity",
+        "perspective": "Perspectives supporting or relating to the claim that Clinton ushered in a new era of American prosperity",
+        "evidence_docs": [
+          371,
+          1198
+        ]
+      },
+      {
+        "claim": "Clinton’s policies ruined countless lives",
+        "perspective": "Perspectives supporting or relating to the claim that Clinton’s policies ruined countless lives",
+        "evidence_docs": [
+          1205,
+          837
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 128,
+    "query": "Did the Original NAFTA hurt or help America?",
+    "summary": [
+      {
+        "claim": "NAFTA hurt the US economy",
+        "perspective": "Perspectives supporting or relating to the claim that NAFTA hurt the US economy",
+        "evidence_docs": [
+          414,
+          369,
+          1230
+        ]
+      },
+      {
+        "claim": "NAFTA helped the economy",
+        "perspective": "Perspectives supporting or relating to the claim that NAFTA helped the economy",
+        "evidence_docs": []
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 129,
+    "query": "The bombings of Hiroshima and Nagasaki: plain evil or a necessary evil?",
+    "summary": [
+      {
+        "claim": "Justified Evil",
+        "perspective": "Perspectives supporting or relating to the claim that the bombings of Hiroshima and Nagasaki were justified evil",
+        "evidence_docs": [
+          4001,
+          862
+        ]
+      },
+      {
+        "claim": "Pure Evil",
+        "perspective": "Perspectives supporting or relating to the claim that the bombings of Hiroshima and Nagasaki were pure evil",
+        "evidence_docs": [
+          36,
+          862
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 130,
+    "query": "Edward Snowden – Hero or Traitor?",
+    "summary": [
+      {
+        "claim": "Edward Snowden is a Hero",
+        "perspective": "Perspectives supporting Edward Snowden as a hero",
+        "evidence_docs": [
+          892,
+          218,
+          909
+        ]
+      },
+      {
+        "claim": "Edward Snowden is a Traitor",
+        "perspective": "Perspectives opposing Edward Snowden as a traitor",
+        "evidence_docs": [
+          556,
+          1085
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 131,
+    "query": "The Perspective on Political Correctness",
+    "summary": [
+      {
+        "claim": "PC Culture Benefits Us All",
+        "perspective": "Perspectives supporting or relating to the claim that PC culture benefits us all",
+        "evidence_docs": [
+          95,
+          811
+        ]
+      },
+      {
+        "claim": "PC Culture is Limiting at Best, Dangerous at Worst",
+        "perspective": "Perspectives supporting or relating to the claim that PC culture is limiting at best, dangerous at worst",
+        "evidence_docs": [
+          1800,
+          2699
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 132,
+    "query": "Social Welfare: Do its advantages outweigh its disadvantages?",
+    "summary": [
+      {
+        "claim": "Social welfare discourages productivity",
+        "perspective": "Perspectives arguing that social welfare discourages productivity",
+        "evidence_docs": [
+          912,
+          1205
+        ]
+      },
+      {
+        "claim": "Social welfare is vital to society",
+        "perspective": "Perspectives arguing that social welfare is vital to society",
+        "evidence_docs": [
+          283,
+          3323,
+          1661
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 133,
+    "query": "The Perspective on Gerrymandering",
+    "summary": [
+      {
+        "claim": "Eliminate gerrymandering",
+        "perspective": "Perspectives supporting the elimination of gerrymandering",
+        "evidence_docs": [
+          874,
+          365
+        ]
+      },
+      {
+        "claim": "Stick around with gerrymandering",
+        "perspective": "Perspectives supporting the continuation of gerrymandering",
+        "evidence_docs": [
+          847,
+          2202
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 134,
+    "query": "Is China the Next Superpower?",
+    "summary": [
+      {
+        "claim": "China will replace the US as superpower",
+        "perspective": "Some argue that China's economic growth and increasing global influence make it a potential superpower, but others point out that China's financial system lacks credibility and its government involvement in the economy puts it out of the running.",
+        "evidence_docs": [
+          489,
+          504,
+          872
+        ]
+      },
+      {
+        "claim": "China isn’t made of superpower stuff",
+        "perspective": "Some argue that China's financial system lacks credibility and its government involvement in the economy puts it out of the running in the superpower race, while others point out that China's economic growth and increasing global influence make it a potential superpower.",
+        "evidence_docs": [
+          992,
+          876,
+          504
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 135,
+    "query": "The Perspective on the United Nations (UN)",
+    "summary": [
+      {
+        "claim": "The UN is a failure",
+        "perspective": "Perspectives criticizing the UN",
+        "evidence_docs": [
+          48,
+          583
+        ]
+      },
+      {
+        "claim": "The UN is effective",
+        "perspective": "Perspectives supporting the UN",
+        "evidence_docs": [
+          247,
+          710
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 136,
+    "query": "Did the Arab Spring Make Things Worse?",
+    "summary": [
+      {
+        "claim": "The Arab Spring was a step forward",
+        "perspective": "Perspectives supporting or relating to the Arab Spring being a step forward",
+        "evidence_docs": [
+          764,
+          928,
+          875
+        ]
+      },
+      {
+        "claim": "The Arab Spring made things worse",
+        "perspective": "Perspectives supporting or relating to the Arab Spring making things worse",
+        "evidence_docs": [
+          1837,
+          1022
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 137,
+    "query": "Was Ronald Reagan The Greatest President Since WWII?",
+    "summary": [
+      {
+        "claim": "Reagan brought an American rebirth",
+        "perspective": "Perspectives supporting or relating to the claim that Reagan brought an American rebirth",
+        "evidence_docs": [
+          483,
+          315
+        ]
+      },
+      {
+        "claim": "Reagan was fiscally and militarily irresponsible",
+        "perspective": "Perspectives supporting or relating to the claim that Reagan was fiscally and militarily irresponsible",
+        "evidence_docs": [
+          359,
+          280
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 138,
+    "query": "Should Puerto Rico become the 51st state?",
+    "summary": [
+      {
+        "claim": "Should Puerto Rico become the 51st state?",
+        "perspective": "The perspectives on this query can be broadly categorized into two groups: those supporting statehood and those opposing it.",
+        "evidence_docs": []
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 139,
+    "query": "Is the EU better off divided or together?",
+    "summary": [
+      {
+        "claim": "The EU Should Separate",
+        "perspective": "Perspectives arguing that the EU should separate from other countries",
+        "evidence_docs": [
+          893,
+          358
+        ]
+      },
+      {
+        "claim": "EU Countries Are Better Together",
+        "perspective": "Perspectives arguing that EU countries are better off together",
+        "evidence_docs": [
+          780,
+          210,
+          448
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 140,
+    "query": "Is Israel an Apartheid State?",
+    "summary": [
+      {
+        "claim": "First claim",
+        "perspective": "Perspectives supporting or relating to the first claim",
+        "evidence_docs": []
+      },
+      {
+        "claim": "Second claim",
+        "perspective": "Perspectives supporting or relating to the second claim",
+        "evidence_docs": []
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 141,
+    "query": "Is it Time To Do Away with the Electoral College?",
+    "summary": [
+      {
+        "claim": "Is it Time To Do Away with the Electoral College?",
+        "perspective": "Perspectives supporting or relating to the claim",
+        "evidence_docs": [
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 142,
+    "query": "Should the US intervene militarily in foreign conflicts?",
+    "summary": [
+      {
+        "claim": "The US should not get involved in foreign countries",
+        "perspective": "Perspectives supporting non-intervention",
+        "evidence_docs": [
+          281,
+          1627
+        ]
+      },
+      {
+        "claim": "America can be a force for good",
+        "perspective": "Perspectives supporting intervention",
+        "evidence_docs": [
+          3998
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 143,
+    "query": "How Similar are the Far-Left and the Far-Right?",
+    "summary": [
+      {
+        "claim": "The Far-Left and the Far-Right Are Two Peas in a Pod",
+        "perspective": "Perspectives suggesting that the Far-Left and the Far-Right share similarities or are connected",
+        "evidence_docs": [
+          64,
+          1062
+        ]
+      },
+      {
+        "claim": "The Far-Left and the Far-Right Are as Different as Night and Day",
+        "perspective": "Perspectives suggesting that the Far-Left and the Far-Right have distinct differences or are mutually exclusive",
+        "evidence_docs": [
+          191,
+          2699
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 144,
+    "query": "Stalin – hero or villain?",
+    "summary": [
+      {
+        "claim": "Stalin was a hero because he improved the standard of living for the Soviet people",
+        "perspective": "Perspectives supporting or relating to the claim that Stalin was a hero",
+        "evidence_docs": [
+          559,
+          6
+        ]
+      },
+      {
+        "claim": "Stalin was a villain because of the horrific consequences of his policies",
+        "perspective": "Perspectives supporting or relating to the claim that Stalin was a villain",
+        "evidence_docs": [
+          5,
+          3280
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 145,
+    "query": "Obama’s Legacy: Mission Accomplished or Mission Impossible?",
+    "summary": [
+      {
+        "claim": "Mission Accomplished",
+        "perspective": "Perspectives supporting or relating to the claim that Obama’s legacy is a success.",
+        "evidence_docs": [
+          1021,
+          1627
+        ]
+      },
+      {
+        "claim": "Mission Impossible",
+        "perspective": "Perspectives supporting or relating to the claim that Obama’s legacy is a failure.",
+        "evidence_docs": [
+          267,
+          1337,
+          871
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 146,
+    "query": "Should the First Amendment cover racism and hate speech?",
+    "summary": [
+      {
+        "claim": "First claim",
+        "perspective": "Perspectives supporting or relating to the first claim",
+        "evidence_docs": [
+          317,
+          798
+        ]
+      },
+      {
+        "claim": "Second claim",
+        "perspective": "Perspectives supporting or relating to the second claim",
+        "evidence_docs": [
+          1484,
+          2722
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 147,
+    "query": "Do Protests work ?",
+    "summary": [
+      {
+        "claim": "Do Protests work?",
+        "perspective": "Protests can be effective in bringing about change, but their impact can be limited by various factors.",
+        "evidence_docs": [
+          820,
+          796
+        ]
+      },
+      {
+        "claim": "Do Protests work?",
+        "perspective": "Protests are often ineffective in achieving their goals, and their impact can be minimal.",
+        "evidence_docs": [
+          967,
+          1300
+        ]
+      },
+      {
+        "claim": "Do Protests work?",
+        "perspective": "Protests can be a powerful tool for bringing about change, but their effectiveness depends on various factors, including the goals and tactics used.",
+        "evidence_docs": [
+          983
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 148,
+    "query": "The Perspective on Drone Strikes",
+    "summary": [
+      {
+        "claim": "Drones are the future",
+        "perspective": "Perspectives supporting the use of drones in various contexts",
+        "evidence_docs": [
+          54,
+          441
+        ]
+      },
+      {
+        "claim": "Drones are dangerous",
+        "perspective": "Perspectives highlighting the risks and concerns associated with drones",
+        "evidence_docs": [
+          873,
+          418
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 149,
+    "query": "The Perspective on Putin",
+    "summary": [
+      {
+        "claim": "Putin has been a positive influence",
+        "perspective": "Perspectives supporting or relating to the claim that Putin has been a positive influence",
+        "evidence_docs": [
+          1082,
+          665
+        ]
+      },
+      {
+        "claim": "Putin is on a power trip",
+        "perspective": "Perspectives supporting or relating to the claim that Putin is on a power trip",
+        "evidence_docs": [
+          1082,
+          3,
+          1049
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 150,
+    "query": "The Perspective on Alan Greenspan",
+    "summary": [
+      {
+        "claim": "The Case Against Greenspan",
+        "perspective": "Perspectives supporting or relating to The Case Against Greenspan",
+        "evidence_docs": [
+          986,
+          136
+        ]
+      },
+      {
+        "claim": "In Greenspan’s Defense",
+        "perspective": "Perspectives supporting or relating to In Greenspan’s Defense",
+        "evidence_docs": [
+          8,
+          39
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 151,
+    "query": "Is Working from Home All It’s Cracked Up To Be?",
+    "summary": [
+      {
+        "claim": "Drawbacks",
+        "perspective": " \n\n```json\n[\n    {\n        \"claim\": \"Is working from home all it's cracked up to be?\",\n        \"perspective\": \"Mixed perspectives on the benefits and drawbacks of working from home\",\n        \"evidence_docs\": [758, 629]\n    },\n    {\n        \"claim\": \"Working from home can be beneficial for productivity and work-life balance\",\n        \"perspective\": \"Some argue that working from home can be beneficial for productivity and work-life balance, while others claim it can be detrimental\",\n        \"evidence_docs\": [629, 2466]\n    },\n    {\n        \"claim\": \"Working from home can be detrimental to productivity and work-life balance\",\n        \"perspective\": \"Some argue that working from home can be detrimental to productivity and work-life balance, while others claim it can be beneficial\",\n        \"evidence_docs\": [758, 322]\n    },\n    {\n        \"claim\": \"Working from home can exacerbate achievement gaps between rich and poor students\",\n        \"perspective\": \"Some argue that working from home can exacerbate achievement gaps between rich and poor students, while others claim it can be beneficial for productivity and work-life balance\",\n        \"evidence_docs\": [322, 3714]\n",
+        "evidence_docs": [
+          758,
+          629,
+          2466
+        ]
+      },
+      {
+        "claim": "Advantages",
+        "perspective": " \n\n```json\n[\n    {\n        \"claim\": \"Is working from home all it's cracked up to be?\",\n        \"perspective\": \"Mixed perspectives on the benefits and drawbacks of working from home\",\n        \"evidence_docs\": [758, 629]\n    },\n    {\n        \"claim\": \"Working from home can be beneficial for productivity and work-life balance\",\n        \"perspective\": \"Some argue that working from home can be beneficial for productivity and work-life balance, while others claim it can be detrimental\",\n        \"evidence_docs\": [629, 2466]\n    },\n    {\n        \"claim\": \"Working from home can be detrimental to productivity and work-life balance\",\n        \"perspective\": \"Some argue that working from home can be detrimental to productivity and work-life balance, while others claim it can be beneficial\",\n        \"evidence_docs\": [758, 322]\n    },\n    {\n        \"claim\": \"Working from home can exacerbate achievement gaps between rich and poor students\",\n        \"perspective\": \"Some argue that working from home can exacerbate achievement gaps between rich and poor students, while others claim it can be beneficial for productivity and work-life balance\",\n        \"evidence_docs\": [322, 3714]\n",
+        "evidence_docs": [
+          758,
+          629,
+          2466
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 152,
+    "query": "Is There Life Outside Earth?",
+    "summary": [
+      {
+        "claim": "Is There Life Outside Earth?",
+        "perspective": "Perspectives supporting or relating to the claim",
+        "evidence_docs": [
+          3104,
+          925,
+          1023,
+          348,
+          381
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 153,
+    "query": "Should we invest in Bitcoin or stay away from it?",
+    "summary": [
+      {
+        "claim": "Should we invest in Bitcoin or stay away from it?",
+        "perspective": "Investment and Regulation",
+        "evidence_docs": [
+          1064,
+          655
+        ]
+      },
+      {
+        "claim": "Should we invest in Bitcoin or stay away from it?",
+        "perspective": "Environmental Impact",
+        "evidence_docs": [
+          456
+        ]
+      },
+      {
+        "claim": "Should we invest in Bitcoin or stay away from it?",
+        "perspective": "Market Volatility and Institutional Resistance",
+        "evidence_docs": [
+          719
+        ]
+      },
+      {
+        "claim": "Should we invest in Bitcoin or stay away from it?",
+        "perspective": "Decentralization and Efficiency",
+        "evidence_docs": [
+          148
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 154,
+    "query": "Did the Original NAFTA hurt or help America?",
+    "summary": [
+      {
+        "claim": "NAFTA hurt the US economy",
+        "perspective": "Perspectives supporting or relating to the claim that NAFTA hurt the US economy",
+        "evidence_docs": [
+          414,
+          369,
+          1230
+        ]
+      },
+      {
+        "claim": "NAFTA helped the economy",
+        "perspective": "Perspectives supporting or relating to the claim that NAFTA helped the economy",
+        "evidence_docs": []
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 155,
+    "query": "Do Unions bring positive change or create more harm than good?",
+    "summary": [
+      {
+        "claim": "Unions bring more harm than good",
+        "perspective": "Perspectives arguing that unions create more harm than good",
+        "evidence_docs": [
+          948,
+          955
+        ]
+      },
+      {
+        "claim": "Unions bring positive change",
+        "perspective": "Perspectives arguing that unions bring positive change",
+        "evidence_docs": [
+          1096,
+          1809,
+          2371
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 156,
+    "query": "Are Banks a force of Good or Evil?",
+    "summary": [
+      {
+        "claim": "Banks improve lives",
+        "perspective": "Perspectives supporting the claim that banks improve lives",
+        "evidence_docs": [
+          4001,
+          1186,
+          561
+        ]
+      },
+      {
+        "claim": "Banks are evil",
+        "perspective": "Perspectives supporting the claim that banks are evil",
+        "evidence_docs": [
+          4001,
+          3008,
+          3280
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 157,
+    "query": "Is Real Estate the Best Investment?",
+    "summary": [
+      {
+        "claim": "Is Real Estate the Best Investment?",
+        "perspective": "Perspectives supporting or relating to the claim",
+        "evidence_docs": [
+          933,
+          302,
+          1137,
+          739,
+          1162
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 158,
+    "query": "IOS or Android – Which Smartphone Is Better?",
+    "summary": [
+      {
+        "claim": "IOS is better than Android",
+        "perspective": "Team Apple",
+        "evidence_docs": [
+          947,
+          1170
+        ]
+      },
+      {
+        "claim": "Android is better than IOS",
+        "perspective": "Team Google",
+        "evidence_docs": [
+          1152,
+          990
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 159,
+    "query": "Should we Raise the Minimum Wage?",
+    "summary": [
+      {
+        "claim": "Should we Raise the Minimum Wage?",
+        "perspective": "Perspectives supporting or relating to the claim",
+        "evidence_docs": [
+          2493,
+          2390
+        ]
+      },
+      {
+        "claim": "Should we Raise the Minimum Wage?",
+        "perspective": "Perspectives opposing or relating to the claim",
+        "evidence_docs": [
+          2497,
+          736
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 160,
+    "query": "Is Home Ownership Still Worthwhile?",
+    "summary": [
+      {
+        "claim": "First claim",
+        "perspective": "Perspectives supporting or relating to the first claim",
+        "evidence_docs": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "claim": "Second claim",
+        "perspective": "Perspectives supporting or relating to the second claim",
+        "evidence_docs": [
+          4,
+          5,
+          6
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 161,
+    "query": "Battle of the consoles : Xbox vs. PlayStation",
+    "summary": [
+      {
+        "claim": "Xbox offers backwards compatibility and is cheaper than PS",
+        "perspective": "Team Microsoft",
+        "evidence_docs": [
+          127,
+          898
+        ]
+      },
+      {
+        "claim": "PS has a clear advantage in terms of horsepower and resolution",
+        "perspective": "Team Sony",
+        "evidence_docs": [
+          419
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 162,
+    "query": "Should we Fight or Embrace Illegal Downloads?",
+    "summary": [
+      {
+        "claim": "Piracy is the new black",
+        "perspective": "Perspectives supporting or relating to the claim that piracy is the new black",
+        "evidence_docs": [
+          620,
+          870
+        ]
+      },
+      {
+        "claim": "Piracy is unacceptable",
+        "perspective": "Perspectives supporting or relating to the claim that piracy is unacceptable",
+        "evidence_docs": [
+          3014
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 163,
+    "query": "The Perspective on Elon Musk",
+    "summary": [
+      {
+        "claim": "Elon Musk is a hero",
+        "perspective": "Perspectives supporting or relating to the claim that Elon Musk is a hero",
+        "evidence_docs": [
+          242,
+          143
+        ]
+      },
+      {
+        "claim": "Elon Musk is only human",
+        "perspective": "Perspectives supporting or relating to the claim that Elon Musk is only human",
+        "evidence_docs": [
+          373,
+          655
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 164,
+    "query": "Does Wall Street embody flawed ethics or economic success?",
+    "summary": [
+      {
+        "claim": "Wall Street embodies flawed ethics",
+        "perspective": "Perspectives supporting or relating to the claim that Wall Street embodies flawed ethics",
+        "evidence_docs": [
+          1030,
+          859
+        ]
+      },
+      {
+        "claim": "Wall Street embodies economic success",
+        "perspective": "Perspectives supporting or relating to the claim that Wall Street embodies economic success",
+        "evidence_docs": [
+          1175,
+          544
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 165,
+    "query": "Internet Trolls: Social Artists or Sadists?",
+    "summary": [
+      {
+        "claim": "Internet Trolls Are Social Artists",
+        "perspective": "Perspectives supporting or relating to the claim that internet trolls are social artists",
+        "evidence_docs": [
+          1157,
+          1025
+        ]
+      },
+      {
+        "claim": "Internet Trolls Are Sadists",
+        "perspective": "Perspectives supporting or relating to the claim that internet trolls are sadists",
+        "evidence_docs": [
+          1025,
+          431
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 166,
+    "query": "The Perspective on Bill Gates",
+    "summary": [
+      {
+        "claim": "Gates is great",
+        "perspective": "Perspectives supporting or relating to Gates being great",
+        "evidence_docs": [
+          965,
+          208
+        ]
+      },
+      {
+        "claim": "Not that great",
+        "perspective": "Perspectives supporting or relating to Gates not being great",
+        "evidence_docs": [
+          1081,
+          92
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 167,
+    "query": "Is Twitter a life-enhancing or life-disabling tool?",
+    "summary": [
+      {
+        "claim": "Twitter can be a life-enhancing tool",
+        "perspective": "Perspectives supporting or relating to the claim that Twitter can be a life-enhancing tool",
+        "evidence_docs": [
+          1176,
+          319,
+          385
+        ]
+      },
+      {
+        "claim": "Twitter can be a life-disabling tool",
+        "perspective": "Perspectives supporting or relating to the claim that Twitter can be a life-disabling tool",
+        "evidence_docs": [
+          1176,
+          193,
+          385
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 168,
+    "query": "Is China the Next Superpower?",
+    "summary": [
+      {
+        "claim": "China will replace the US as superpower",
+        "perspective": "Some argue that China's economic growth and increasing global influence make it a potential superpower, but others point out that China's financial system lacks credibility and its government involvement in the economy puts it out of the running.",
+        "evidence_docs": [
+          489,
+          504,
+          872
+        ]
+      },
+      {
+        "claim": "China isn’t made of superpower stuff",
+        "perspective": "Some argue that China's financial system lacks credibility and its government involvement in the economy puts it out of the running, but others point out that China's economic growth and increasing global influence make it a potential superpower.",
+        "evidence_docs": [
+          992,
+          876,
+          504
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 169,
+    "query": "The Perspective on Fracking",
+    "summary": [
+      {
+        "claim": "The Perspective on Fracking",
+        "perspective": "Perspectives supporting or relating to the claim that fracking has dire environmental consequences",
+        "evidence_docs": [
+          1065
+        ]
+      },
+      {
+        "claim": "The Perspective on Fracking",
+        "perspective": "Perspectives supporting or relating to the claim that fracking has transformed the US’s perspective on energy",
+        "evidence_docs": [
+          276,
+          353
+        ]
+      },
+      {
+        "claim": "The Perspective on Fracking",
+        "perspective": "Perspectives supporting or relating to the claim that fracking has rejuvenated local economies and provided job security",
+        "evidence_docs": [
+          410
+        ]
+      },
+      {
+        "claim": "The Perspective on Fracking",
+        "perspective": "Perspectives supporting or relating to the claim that fracking isn’t the only source to tap for energy",
+        "evidence_docs": [
+          1072
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 170,
+    "query": "Will Nuclear Power advance or ruin humanity?",
+    "summary": [
+      {
+        "claim": "Nuclear power can advance humanity by reducing carbon emissions and providing a clean source of energy",
+        "perspective": "Perspectives supporting the advancement of nuclear power",
+        "evidence_docs": [
+          389,
+          2746
+        ]
+      },
+      {
+        "claim": "Nuclear power can ruin humanity by increasing the risk of nuclear accidents and proliferation",
+        "perspective": "Perspectives opposing the advancement of nuclear power",
+        "evidence_docs": [
+          155,
+          2744
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 171,
+    "query": "Is the EU better off divided or together?",
+    "summary": [
+      {
+        "claim": "The EU Should Separate",
+        "perspective": "Perspectives arguing that the EU should separate into individual countries",
+        "evidence_docs": [
+          893,
+          210
+        ]
+      },
+      {
+        "claim": "EU Countries Are Better Together",
+        "perspective": "Perspectives arguing that EU countries are better off together",
+        "evidence_docs": [
+          358,
+          780,
+          448
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 172,
+    "query": "Startups: Is it better to be first or second to the market?",
+    "summary": [
+      {
+        "claim": "First claim",
+        "perspective": "The Innovator",
+        "evidence_docs": [
+          165,
+          988
+        ]
+      },
+      {
+        "claim": "Second claim",
+        "perspective": "The First Follower",
+        "evidence_docs": [
+          426,
+          599
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 173,
+    "query": "Is Amazon Good or Bad for the Shopping Industry?",
+    "summary": [
+      {
+        "claim": "Is Amazon Good or Bad for the Shopping Industry?",
+        "perspective": "Amazon has both positive and negative impacts on the shopping industry",
+        "evidence_docs": [
+          516,
+          844,
+          1206,
+          114,
+          444
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 174,
+    "query": "THE PERSPECTIVE ON DIGITAL MARKETING",
+    "summary": [
+      {
+        "claim": "The Case for Digital Marketing",
+        "perspective": "Perspectives supporting or relating to the Case for Digital Marketing",
+        "evidence_docs": [
+          251,
+          407,
+          421,
+          495
+        ]
+      },
+      {
+        "claim": "The Case against Digital Marketing",
+        "perspective": "Perspectives supporting or relating to the Case against Digital Marketing",
+        "evidence_docs": [
+          666
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 175,
+    "query": "The Perspective on Google: is it too powerful?",
+    "summary": [
+      {
+        "claim": "Google is too powerful",
+        "perspective": "Perspectives supporting or relating to the claim that Google is too powerful",
+        "evidence_docs": [
+          102,
+          1191,
+          931,
+          1188,
+          1036
+        ]
+      },
+      {
+        "claim": "Google is not too powerful",
+        "perspective": "Perspectives supporting or relating to the claim that Google is not too powerful",
+        "evidence_docs": []
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 176,
+    "query": "Should we raise taxes on the rich?",
+    "summary": [
+      {
+        "claim": "We should tax the rich more",
+        "perspective": "Perspectives supporting or relating to taxing the rich more",
+        "evidence_docs": [
+          2982,
+          3796
+        ]
+      },
+      {
+        "claim": "We shouldn’t tax the rich more",
+        "perspective": "Perspectives supporting or relating to not taxing the rich more",
+        "evidence_docs": [
+          279,
+          3319,
+          3797
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 177,
+    "query": "Will virtual reality ever take off?",
+    "summary": [
+      {
+        "claim": "Three Reasons Why Virtual Reality Has Taken Off",
+        "perspective": " \n\n```json\n[\n    {\n        \"claim\": \"Will virtual reality ever take off?\",\n        \"perspective\": \"The perspective that virtual reality will take off\",\n        \"evidence_docs\": [808, 209]\n    },\n    {\n        \"claim\": \"Virtual reality has taken off\",\n        \"perspective\": \"The perspective that virtual reality has taken off\",\n        \"evidence_docs\": [808]\n    },\n    {\n        \"claim\": \"Virtual reality will never take off\",\n        \"perspective\": \"The perspective that virtual reality will never take off\",\n        \"evidence_docs\": [209]\n    },\n    {\n        \"claim\": \"Virtual reality will take off\",\n        \"perspective\": \"The perspective that virtual reality will take off\",\n        \"evidence_docs\": [209]\n    },\n    {\n        \"claim\": \"Virtual reality will take off\",\n        \"perspective\": \"The perspective that virtual reality will take off\",\n        \"evidence_docs\": [209]\n    },\n    {\n        \"claim\": \"Virtual reality will take off\",\n        \"perspective\": \"The perspective that virtual reality will take off\",\n        \"evidence_docs\": [209]\n    },\n    {\n        \"claim\": \"Virtual reality will take",
+        "evidence_docs": [
+          808,
+          1332,
+          433
+        ]
+      },
+      {
+        "claim": "Competition is bringing down the price",
+        "perspective": " \n\n```json\n[\n    {\n        \"claim\": \"Will virtual reality ever take off?\",\n        \"perspective\": \"The perspective that virtual reality will take off\",\n        \"evidence_docs\": [808, 209]\n    },\n    {\n        \"claim\": \"Virtual reality has taken off\",\n        \"perspective\": \"The perspective that virtual reality has taken off\",\n        \"evidence_docs\": [808]\n    },\n    {\n        \"claim\": \"Virtual reality will never take off\",\n        \"perspective\": \"The perspective that virtual reality will never take off\",\n        \"evidence_docs\": [209]\n    },\n    {\n        \"claim\": \"Virtual reality will take off\",\n        \"perspective\": \"The perspective that virtual reality will take off\",\n        \"evidence_docs\": [209]\n    },\n    {\n        \"claim\": \"Virtual reality will take off\",\n        \"perspective\": \"The perspective that virtual reality will take off\",\n        \"evidence_docs\": [209]\n    },\n    {\n        \"claim\": \"Virtual reality will take off\",\n        \"perspective\": \"The perspective that virtual reality will take off\",\n        \"evidence_docs\": [209]\n    },\n    {\n        \"claim\": \"Virtual reality will take",
+        "evidence_docs": [
+          808,
+          1332,
+          433
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 178,
+    "query": "Start Your Startup after School or Get Some Full-Time Experience First?",
+    "summary": [
+      {
+        "claim": "Start with Startup",
+        "perspective": "Supporting the idea of starting a startup immediately after school or getting some full-time experience first.",
+        "evidence_docs": [
+          1194,
+          250
+        ]
+      },
+      {
+        "claim": "Get Some Full-Time Experience First",
+        "perspective": "Perspectives arguing that getting some full-time experience first is beneficial before starting a startup.",
+        "evidence_docs": [
+          3922,
+          52,
+          2165
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 179,
+    "query": "The Perspective on Big Data",
+    "summary": [
+      {
+        "claim": "Big Data, Big Payoff",
+        "perspective": "Perspectives supporting or relating to the claim that Big Data can bring significant benefits to individuals and society",
+        "evidence_docs": [
+          1135,
+          1210
+        ]
+      },
+      {
+        "claim": "Data the Devil",
+        "perspective": "Perspectives supporting or relating to the claim that Big Data can be a threat to individual privacy and society",
+        "evidence_docs": [
+          1135,
+          277,
+          259
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 180,
+    "query": "Should you fly on traditional or low-cost airlines?",
+    "summary": [
+      {
+        "claim": "Three reasons to stick with time-tested legacy airlines",
+        "perspective": " \n\n```json\n[\n    {\n        \"claim\": \"Should you fly on traditional or low-cost airlines?\",\n        \"perspective\": \"Major airlines are better equipped with resources to help passengers when needs arise, in comparison to their low-cost counterparts.\",\n        \"evidence_docs\": [1016]\n    },\n    {\n        \"claim\": \"Low-cost airlines take a no-frills approach, which is how they are able to keep their fees relatively lower than traditional airlines.\",\n        \"perspective\": \"Low-cost airlines save on luxuries, like reclining seats, which reduces initial plane purchase and maintenance costs.\",\n        \"evidence_docs\": [1031]\n    },\n    {\n        \"claim\": \"Low-cost airlines are still cheaper than traditional airlines.\",\n        \"perspective\": \"The biggest advantage to flying low-cost is the ticket price – which is often about 20% lower than that of larger airlines – but can be even lower when booking early.\",\n        \"evidence_docs\": [131]\n    },\n    {\n        \"claim\": \"Traditional airlines are not perfect, but they try to stick to relatively strict flight schedules and allow passengers to view their plane seats ahead of time.\",\n        \"perspective\": \"Low-cost airlines, on the other hand, reserve the",
+        "evidence_docs": [
+          1016,
+          1031,
+          131
+        ]
+      },
+      {
+        "claim": "Three reasons low-cost flights should rule the sky",
+        "perspective": " \n\n```json\n[\n    {\n        \"claim\": \"Should you fly on traditional or low-cost airlines?\",\n        \"perspective\": \"Major airlines are better equipped with resources to help passengers when needs arise, in comparison to their low-cost counterparts.\",\n        \"evidence_docs\": [1016]\n    },\n    {\n        \"claim\": \"Low-cost airlines take a no-frills approach, which is how they are able to keep their fees relatively lower than traditional airlines.\",\n        \"perspective\": \"Low-cost airlines save on luxuries, like reclining seats, which reduces initial plane purchase and maintenance costs.\",\n        \"evidence_docs\": [1031]\n    },\n    {\n        \"claim\": \"Low-cost airlines are still cheaper than traditional airlines.\",\n        \"perspective\": \"The biggest advantage to flying low-cost is the ticket price – which is often about 20% lower than that of larger airlines – but can be even lower when booking early.\",\n        \"evidence_docs\": [131]\n    },\n    {\n        \"claim\": \"Traditional airlines are not perfect, but they try to stick to relatively strict flight schedules and allow passengers to view their plane seats ahead of time.\",\n        \"perspective\": \"Low-cost airlines, on the other hand, reserve the",
+        "evidence_docs": [
+          1016,
+          1031,
+          131
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 181,
+    "query": "The Perspective on Small-Change Investment Apps",
+    "summary": [
+      {
+        "claim": "Take a Chance on Small-Change Apps",
+        "perspective": "Perspectives supporting or relating to the claim that small-change investment apps allow people to start saving earlier and grow their money over time.",
+        "evidence_docs": [
+          725,
+          526,
+          929
+        ]
+      },
+      {
+        "claim": "Stick to what you know",
+        "perspective": "Perspectives supporting or relating to the claim that small-change investment apps may not be suitable for everyone, especially those who want to invest in specific stocks or companies they know well.",
+        "evidence_docs": [
+          760,
+          621
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 182,
+    "query": "Open vs. Closed Space Work Environments",
+    "summary": [
+      {
+        "claim": "Open spaces are better",
+        "perspective": "Perspectives supporting or relating to the claim that open spaces are better",
+        "evidence_docs": [
+          99,
+          775,
+          1727
+        ]
+      },
+      {
+        "claim": "Closed spaces are better",
+        "perspective": "Perspectives supporting or relating to the claim that closed spaces are better",
+        "evidence_docs": [
+          713,
+          72
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 183,
+    "query": "Are Smart Homes a Smart Idea?",
+    "summary": [
+      {
+        "claim": "Are Smart Homes a Smart Idea?",
+        "perspective": "Not All It’s Cracked Up to Be",
+        "evidence_docs": [
+          677,
+          162
+        ]
+      },
+      {
+        "claim": "Are Smart Homes a Smart Idea?",
+        "perspective": "As Good as It Gets",
+        "evidence_docs": [
+          3624,
+          94,
+          590
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 184,
+    "query": "Is E-Commerce Pushing Us Forward or Holding Us Back?",
+    "summary": [
+      {
+        "claim": "E-commerce Is Hurting the Economy",
+        "perspective": "Perspectives arguing that e-commerce is negatively impacting the economy",
+        "evidence_docs": [
+          1556,
+          486
+        ]
+      },
+      {
+        "claim": "E-commerce Brings Power Back to the Consumer",
+        "perspective": "Perspectives arguing that e-commerce is empowering consumers",
+        "evidence_docs": [
+          1364,
+          1690
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 185,
+    "query": "Do the benefits of crowd-sleuthing outweigh the risks?",
+    "summary": [
+      {
+        "claim": "Do the benefits of crowd-sleuthing outweigh the risks?",
+        "perspective": "Perspectives supporting or relating to the claim",
+        "evidence_docs": [
+          703,
+          821,
+          771,
+          123
+        ]
+      },
+      {
+        "claim": "The benefits of crowd-sleuthing outweigh the risks",
+        "perspective": "Perspectives supporting or relating to the claim",
+        "evidence_docs": [
+          771,
+          123,
+          151
+        ]
+      }
+    ],
+    "metrics": null
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "query": "Surrealist Memes: Regression or Progression?",
+    "summary": [
+      {
+        "claim": "Surrealist memes represent progression in meme art",
+        "perspective": "Those who argue that surrealist memes are a natural evolution of meme art, building upon the absurdity of contemporary life and the influence of pre-internet art movements",
+        "evidence_docs": [
+          205,
+          1138
+        ]
+      },
+      {
+        "claim": "Surrealist memes are regressive and lack a distinct message",
+        "perspective": "Those who argue that surrealist memes are a regression to absurdity and lack the emotional resonance and message that art should convey",
+        "evidence_docs": [
+          858,
+          364
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 2,
+    "query": "Throwback TV: Friends or Seinfeld?",
+    "summary": [
+      {
+        "claim": "Throwback TV: Friends or Seinfeld?",
+        "perspective": "Perspectives supporting or relating to the claim that Friends is better than Seinfeld",
+        "evidence_docs": [
+          1197,
+          482
+        ]
+      },
+      {
+        "claim": "Throwback TV: Friends or Seinfeld?",
+        "perspective": "Perspectives supporting or relating to the claim that Seinfeld is better than Friends",
+        "evidence_docs": [
+          867,
+          1094
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 3,
+    "query": "Should Gwyneth Paltrow be admired or criticized?",
+    "summary": [
+      {
+        "claim": "3 reasons why Gwyneth Paltrow should be admired",
+        "perspective": " \n\n```\n[\n{\n    \"claim\": \"Gwyneth Paltrow should be admired for her ability to maintain a positive public image despite being a celebrity\",\n    \"perspective\": \"Celebrities who have successfully navigated the challenges of fame, such as Gwyneth Paltrow, should be admired for their ability to maintain a positive public image despite being a celebrity\",\n    \"evidence_docs\": [352, 184, 772]\n},\n{\n    \"claim\": \"Gwyneth Paltrow should not be idolized for promoting pseudoscientific products and services\",\n    \"perspective\": \"Celebrities who promote pseudoscientific products and services, such as Gwyneth Paltrow, should not be idolized for their endorsement of unproven or debunked health claims\",\n    \"evidence_docs\": [1019, 352]\n}\n``` \n\nNote: The provided JSON response is not in the correct format. The correct format is a list of objects with the structure specified in the problem description. Here is the corrected JSON response:\n\n```\n[\n  {\n    \"claim\": \"Gwyneth Paltrow should be admired for her ability to maintain a positive public image despite being a celebrity\",\n    \"perspective\":",
+        "evidence_docs": [
+          352,
+          1019,
+          184
+        ]
+      },
+      {
+        "claim": "3 reasons why Gwyneth Paltrow shouldn’t be idolized",
+        "perspective": " \n\n```\n[\n{\n    \"claim\": \"Gwyneth Paltrow should be admired for her ability to maintain a positive public image despite being a celebrity\",\n    \"perspective\": \"Celebrities who have successfully navigated the challenges of fame, such as Gwyneth Paltrow, should be admired for their ability to maintain a positive public image despite being a celebrity\",\n    \"evidence_docs\": [352, 184, 772]\n},\n{\n    \"claim\": \"Gwyneth Paltrow should not be idolized for promoting pseudoscientific products and services\",\n    \"perspective\": \"Celebrities who promote pseudoscientific products and services, such as Gwyneth Paltrow, should not be idolized for their endorsement of unproven or debunked health claims\",\n    \"evidence_docs\": [1019, 352]\n}\n``` \n\nNote: The provided JSON response is not in the correct format. The correct format is a list of objects with the structure specified in the problem description. Here is the corrected JSON response:\n\n```\n[\n  {\n    \"claim\": \"Gwyneth Paltrow should be admired for her ability to maintain a positive public image despite being a celebrity\",\n    \"perspective\":",
+        "evidence_docs": [
+          352,
+          1019,
+          184
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 4,
+    "query": "The Perspective on Reality TV",
+    "summary": [
+      {
+        "claim": "Reality TV is a reflection of society's values and interests",
+        "perspective": "Perspectives supporting or relating to the claim that reality TV is a reflection of society's values and interests",
+        "evidence_docs": [
+          2202,
+          916
+        ]
+      },
+      {
+        "claim": "Reality TV is a reflection of society's values and interests",
+        "perspective": "Perspectives supporting or relating to the claim that reality TV is a reflection of society's values and interests",
+        "evidence_docs": [
+          3419,
+          420
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 5,
+    "query": "Should we Fight or Embrace Illegal Downloads?",
+    "summary": [
+      {
+        "claim": "Should we Fight or Embrace Illegal Downloads?",
+        "perspective": "Perspectives supporting or relating to the claim that illegal downloads should be embraced",
+        "evidence_docs": [
+          620,
+          870
+        ]
+      },
+      {
+        "claim": "Should we Fight or Embrace Illegal Downloads?",
+        "perspective": "Perspectives supporting or relating to the claim that illegal downloads should be fought",
+        "evidence_docs": [
+          3014,
+          1519,
+          3072
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 6,
+    "query": "How Should We View Michael Jackson’s legacy?",
+    "summary": [
+      {
+        "claim": "Smooth Criminal",
+        "perspective": " \n\n```\n[\n{\n    \"claim\": \"Michael Jackson’s legacy should be viewed as a complex mix of his artistic achievements and personal controversies.\",\n    \"perspective\": \"Those who view his legacy through the lens of his artistic achievements, such as his music videos and live performances, see him as a groundbreaking artist who revolutionized the industry.\",\n    \"evidence_docs\": [528, 416]\n},\n{\n    \"claim\": \"Michael Jackson’s legacy should be viewed as a cautionary tale of the dangers of unchecked fame and the exploitation of vulnerable individuals.\",\n    \"perspective\": \"Those who view his legacy through the lens of his personal controversies, such as the allegations of child molestation and his erratic behavior, see him as a cautionary tale of the dangers of unchecked fame and the exploitation of vulnerable individuals.\",\n    \"evidence_docs\": [454, 961]\n}\n``` \n\nNote: The provided JSON response is already in the correct format. I will make sure to follow the format in my future responses. \n\nHowever, I noticed that the provided JSON response has 2 claims, whereas the prompt asks for exactly 2 perspectives. I will make sure to correct this in my future responses. Here is the corrected JSON response:\n\n```\n[\n{\n    \"",
+        "evidence_docs": [
+          454,
+          961,
+          528
+        ]
+      },
+      {
+        "claim": "Invincible",
+        "perspective": " \n\n```\n[\n{\n    \"claim\": \"Michael Jackson’s legacy should be viewed as a complex mix of his artistic achievements and personal controversies.\",\n    \"perspective\": \"Those who view his legacy through the lens of his artistic achievements, such as his music videos and live performances, see him as a groundbreaking artist who revolutionized the industry.\",\n    \"evidence_docs\": [528, 416]\n},\n{\n    \"claim\": \"Michael Jackson’s legacy should be viewed as a cautionary tale of the dangers of unchecked fame and the exploitation of vulnerable individuals.\",\n    \"perspective\": \"Those who view his legacy through the lens of his personal controversies, such as the allegations of child molestation and his erratic behavior, see him as a cautionary tale of the dangers of unchecked fame and the exploitation of vulnerable individuals.\",\n    \"evidence_docs\": [454, 961]\n}\n``` \n\nNote: The provided JSON response is already in the correct format. I will make sure to follow the format in my future responses. \n\nHowever, I noticed that the provided JSON response has 2 claims, whereas the prompt asks for exactly 2 perspectives. I will make sure to correct this in my future responses. Here is the corrected JSON response:\n\n```\n[\n{\n    \"",
+        "evidence_docs": [
+          454,
+          961,
+          528
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 7,
+    "query": "Disney Animated Films – Are they good for children?",
+    "summary": [
+      {
+        "claim": "Disney Animated Films are good for children",
+        "perspective": "Disney films use fairytale romances and hero-villain epics as engines for social consciousness, promoting values such as sacrifice and hope, which can be beneficial for children.",
+        "evidence_docs": [
+          459,
+          853
+        ]
+      },
+      {
+        "claim": "Disney Animated Films are not good for children",
+        "perspective": "Disney films promote consumerist behavior and train children in the habits of consumerism, which can be detrimental to their well-being.",
+        "evidence_docs": [
+          462,
+          672
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 8,
+    "query": "(Titanic) Could Jack have been saved?",
+    "summary": [
+      {
+        "claim": "Jack could have fit on the door with Rose",
+        "perspective": "Perspectives supporting the claim that Jack could have fit on the door with Rose",
+        "evidence_docs": [
+          331,
+          134,
+          239
+        ]
+      },
+      {
+        "claim": "Jack could not have fit on the door with Rose",
+        "perspective": "Perspectives supporting the claim that Jack could not have fit on the door with Rose",
+        "evidence_docs": [
+          464,
+          722
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 9,
+    "query": "Which is better: Star Wars Vs. Star Trek?",
+    "summary": [
+      {
+        "claim": "Star Wars is better",
+        "perspective": "Fans of action-packed space battles and iconic characters",
+        "evidence_docs": [
+          202,
+          810
+        ]
+      },
+      {
+        "claim": "Star Trek is better",
+        "perspective": "Fans of thought-provoking diplomacy and realistic portrayals of the future",
+        "evidence_docs": [
+          394,
+          387
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 10,
+    "query": "Is Binge-Watching a harmless or helpful activity?",
+    "summary": [
+      {
+        "claim": "Binge-watching is a harmless activity",
+        "perspective": "Perspectives supporting the claim that binge-watching is harmless",
+        "evidence_docs": [
+          47,
+          878
+        ]
+      },
+      {
+        "claim": "Binge-watching is not harmless",
+        "perspective": "Perspectives opposing the claim that binge-watching is harmless",
+        "evidence_docs": [
+          675,
+          530
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": 11,
+    "query": "Is Harley Quinn a Villain or a Tragic Character?",
+    "summary": [
+      {
+        "claim": "Harley Quinn is a tragic character",
+        "perspective": "Those who see Harley as a tragic character, focusing on her backstory and circumstances",
+        "evidence_docs": [
+          803,
+          1027,
+          2914
+        ]
+      },
+      {
+        "claim": "Harley Quinn is a villain",
+        "perspective": "Those who see Harley as a villain, focusing on her actions and relationships",
+        "evidence_docs": [
+          832,
+          880
+        ]
+      }
+    ],
+    "metrics": null
+  }
+]

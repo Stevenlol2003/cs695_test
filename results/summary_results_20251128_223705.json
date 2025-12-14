@@ -1,0 +1,116 @@
+[
+  {
+    "query": "Surrealist Memes: Regression or Progression?",
+    "summary": {
+      "query": "Surrealist Memes: Regression or Progression?",
+      "perspectives": [
+        {
+          "claim": "Surrealist memes represent progression in meme art.",
+          "perspective": "Could not generate perspective due to error: unknown extension ?R at position 12",
+          "evidence_docs": []
+        },
+        {
+          "claim": "Surreal art is taking meme art back centuries (well, ok, decade).",
+          "perspective": "Could not generate perspective due to error: unknown extension ?R at position 12",
+          "evidence_docs": []
+        }
+      ]
+    },
+    "metrics": null
+  },
+  {
+    "query": "Throwback TV: Friends or Seinfeld?",
+    "summary": {
+      "query": "Throwback TV: Friends or Seinfeld?",
+      "perspectives": [
+        {
+          "claim": "Why Friends is better than Seinfeld",
+          "perspective": "Could not generate perspective due to error: unknown extension ?R at position 12",
+          "evidence_docs": []
+        },
+        {
+          "claim": "Why Seinfeld is better than Friends",
+          "perspective": "Could not generate perspective due to error: unknown extension ?R at position 12",
+          "evidence_docs": []
+        }
+      ]
+    },
+    "metrics": null
+  },
+  {
+    "query": "Should Gwyneth Paltrow be admired or criticized?",
+    "summary": {
+      "query": "Should Gwyneth Paltrow be admired or criticized?",
+      "perspectives": [
+        {
+          "claim": "3 reasons why Gwyneth Paltrow should be admired",
+          "perspective": "Could not generate perspective due to error: unknown extension ?R at position 12",
+          "evidence_docs": []
+        },
+        {
+          "claim": "3 reasons why Gwyneth Paltrow shouldn’t be idolized",
+          "perspective": "Could not generate perspective due to error: unknown extension ?R at position 12",
+          "evidence_docs": []
+        }
+      ]
+    },
+    "metrics": null
+  },
+  {
+    "query": "The Perspective on Reality TV",
+    "summary": {
+      "query": "The Perspective on Reality TV",
+      "perspectives": [
+        {
+          "claim": "Keep it Real",
+          "perspective": "Could not generate perspective due to error: unknown extension ?R at position 12",
+          "evidence_docs": []
+        },
+        {
+          "claim": "Reality Bites",
+          "perspective": "Could not generate perspective due to error: unknown extension ?R at position 12",
+          "evidence_docs": []
+        }
+      ]
+    },
+    "metrics": null
+  },
+  {
+    "query": "Should we Fight or Embrace Illegal Downloads?",
+    "summary": {
+      "query": "Should we Fight or Embrace Illegal Downloads?",
+      "perspectives": [
+        {
+          "claim": "Piracy is the new black",
+          "perspective": "Could not generate perspective due to error: unknown extension ?R at position 12",
+          "evidence_docs": []
+        },
+        {
+          "claim": "Piracy is unacceptable",
+          "perspective": "Could not generate perspective due to error: unknown extension ?R at position 12",
+          "evidence_docs": []
+        }
+      ]
+    },
+    "metrics": null
+  },
+  {
+    "query": "How Should We View Michael Jackson’s legacy?",
+    "summary": {
+      "query": "How Should We View Michael Jackson’s legacy?",
+      "perspectives": [
+        {
+          "claim": "Smooth Criminal",
+          "perspective": "Could not generate perspective due to error: unknown extension ?R at position 12",
+          "evidence_docs": []
+        },
+        {
+          "claim": "Invincible",
+          "perspective": "Could not generate perspective due to error: unknown extension ?R at position 12",
+          "evidence_docs": []
+        }
+      ]
+    },
+    "metrics": null
+  }
+]

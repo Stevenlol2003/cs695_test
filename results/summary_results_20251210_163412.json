@@ -1,0 +1,284 @@
+[
+  {
+    "id": "living_33",
+    "query": "The Perspective on Physician-Assisted Suicide",
+    "summary": [
+      {
+        "claim": "Physician-assisted suicide is a right that should be protected and respected.",
+        "perspectives": [
+          {
+            "text": "The right to choose one's own death is implicit in the right to life, and quality of life judgements are private and personal.",
+            "evidence_docs": [
+              "Doc 1938"
+            ]
+          },
+          {
+            "text": "A PAS system puts the expertise of the doctor and the experience of the patient at the forefront of the issue and views both perspectives rightly as the most credible in a given situation.",
+            "evidence_docs": [
+              "Doc 3804"
+            ]
+          },
+          {
+            "text": "When confronted with chronic pain or with diseases that steadily remove our sense of self, death has proven to be a sensible option taken by sensible people.",
+            "evidence_docs": [
+              "Doc 1894"
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Physician-assisted suicide is morally wrong and should not be legalized.",
+        "perspectives": [
+          {
+            "text": "A physician must not be involved in deliberately harming their patient, and admitting that killing is an acceptable part of a doctor’s role would likely increase the danger of involuntary euthanasia.",
+            "evidence_docs": [
+              "Doc 1940"
+            ]
+          },
+          {
+            "text": "Ending the life of a patient goes against all they stand for, and the Hippocratic Oath that doctors use as a guide states ‘I will neither give a deadly drug to anybody if asked for it, nor will I make a suggestion to this effect’.",
+            "evidence_docs": [
+              "Doc 1940"
+            ]
+          },
+          {
+            "text": "The law cannot adapt to the specificity and multitude of ethical problems that arise on a situational basis, and the foundation of medical ethics relies upon the understanding of the consent (when applicable) of the patient to the procedure and the discretion, judgment, and experience of the medical profession.",
+            "evidence_docs": [
+              "Doc 3804"
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_34",
+    "query": "Should homework be assigned in elementary school?",
+    "summary": [
+      {
+        "claim": "Three reasons why homework should not be assigned in elementary school",
+        "perspective": " \n```python\nimport json\n\n# Define the documents and their corresponding IDs\ndocuments = {\n    \"Doc 268\": \"Elementary school students are just beginning their school careers. However, being burdened by homework, which stops them from doing fun activities, may make them feel negative emotions towards schoolwork.\",\n    \"Doc 3872\": \"I do think that homework should have a limit because sometimes homework can be overwhelming and you spend a lot of time on the computer or with a sheet of paper doing homework instead of spending time with your family and doing things.\",\n    \"Doc 532\": \"Way before the coronavirus hit, elementary school kids were already more stressed-out than any generation before them. While there are numerous causes for such stress, the burden of homework plays a large part.\",\n    \"Doc 1054\": \"Elementary school children don’t have a lot of time between coming home from school and going to sleep. Once they have to do homework, their time is even more restricted.\",\n    \"Doc 2271\": \"Especially if we get too much homework it can take the enjoyment out of learning. No matter how engaging the teacher is in class homework will almost certainly be stressful, boring and tiring.\",\n}\n\n# Define the query\nquery = \"Should homework be assigned in elementary school?\"\n\n# Define the perspectives\nperspectives = {\n    \"Positive claim\": [\n        {\"text\": \"Having some homework is good, but having a lot of homework isn’t the greatest.\", \"evidence_docs\": [\"Doc 3872\", \"Doc 2271\"]},\n        {\"text\": \"Homework can be beneficial for learning, but it should not be excessive.\", \"evidence_docs\": [\"Doc 532\", \"Doc 1054\"]},\n    ],\n    \"Negative claim\": [\n        {\"text\": \"Assigning homework in elementary school can lead to negative emotions towards schoolwork and stress.\", \"evidence_docs\": [\"Doc 268\", \"Doc 2271\"]},\n        {\"text\": \"Excessive homework can prevent children from spending time with family, forming friendships, and developing hobbies.\", \"evidence_docs\": [\"Doc 1054\", \"Doc 532\"]},\n    ],\n}\n\n# Create the JSON output\noutput = {\n    \"claim\": query,\n    \"perspectives\": [\n        {\"claim\": \"Positive claim\", \"text\": \"Having some homework is good, but having a lot of homework isn’t the greatest.\", \"evidence_docs\": [\"Doc 3872\", \"Doc 2271\"]},\n        {\"claim\": \"Homework can be beneficial for learning, but it should not be excessive.\", \"text\": \"Homework can be beneficial for learning, but it should not be excessive.\", \"evidence_docs\": [\"Doc 532\", \"Doc 1054\"]},\n    ],\n    {\"claim\": \"Negative claim\", \"text\": \"Assigning homework in elementary school can lead to negative emotions towards schoolwork and stress.\", \"evidence_docs\": [\"Doc 268\", \"Doc 2271\"]},\n    {\"claim\": \"Excessive homework can prevent children from spending time with family, forming friendships, and developing hobbies.\", \"text\": \"Excessive homework can prevent children from spending time with family, forming friendships, and developing hobbies.\", \"evidence_docs\": [\"Doc 1054\", \"Doc 532\"]},\n}\n\n# Convert the output to JSON\njson_output = json.dumps(output, indent=4)\n\n# Print the JSON output\nprint(json_output)\n```",
+        "evidence_docs": [
+          268,
+          3872,
+          532
+        ]
+      },
+      {
+        "claim": "Three reasons why homework should be assigned in elementary school",
+        "perspective": " \n```python\nimport json\n\n# Define the documents and their corresponding IDs\ndocuments = {\n    \"Doc 268\": \"Elementary school students are just beginning their school careers. However, being burdened by homework, which stops them from doing fun activities, may make them feel negative emotions towards schoolwork.\",\n    \"Doc 3872\": \"I do think that homework should have a limit because sometimes homework can be overwhelming and you spend a lot of time on the computer or with a sheet of paper doing homework instead of spending time with your family and doing things.\",\n    \"Doc 532\": \"Way before the coronavirus hit, elementary school kids were already more stressed-out than any generation before them. While there are numerous causes for such stress, the burden of homework plays a large part.\",\n    \"Doc 1054\": \"Elementary school children don’t have a lot of time between coming home from school and going to sleep. Once they have to do homework, their time is even more restricted.\",\n    \"Doc 2271\": \"Especially if we get too much homework it can take the enjoyment out of learning. No matter how engaging the teacher is in class homework will almost certainly be stressful, boring and tiring.\",\n}\n\n# Define the query\nquery = \"Should homework be assigned in elementary school?\"\n\n# Define the perspectives\nperspectives = {\n    \"Positive claim\": [\n        {\"text\": \"Having some homework is good, but having a lot of homework isn’t the greatest.\", \"evidence_docs\": [\"Doc 3872\", \"Doc 2271\"]},\n        {\"text\": \"Homework can be beneficial for learning, but it should not be excessive.\", \"evidence_docs\": [\"Doc 532\", \"Doc 1054\"]},\n    ],\n    \"Negative claim\": [\n        {\"text\": \"Assigning homework in elementary school can lead to negative emotions towards schoolwork and stress.\", \"evidence_docs\": [\"Doc 268\", \"Doc 2271\"]},\n        {\"text\": \"Excessive homework can prevent children from spending time with family, forming friendships, and developing hobbies.\", \"evidence_docs\": [\"Doc 1054\", \"Doc 532\"]},\n    ],\n}\n\n# Create the JSON output\noutput = {\n    \"claim\": query,\n    \"perspectives\": [\n        {\"claim\": \"Positive claim\", \"text\": \"Having some homework is good, but having a lot of homework isn’t the greatest.\", \"evidence_docs\": [\"Doc 3872\", \"Doc 2271\"]},\n        {\"claim\": \"Homework can be beneficial for learning, but it should not be excessive.\", \"text\": \"Homework can be beneficial for learning, but it should not be excessive.\", \"evidence_docs\": [\"Doc 532\", \"Doc 1054\"]},\n    ],\n    {\"claim\": \"Negative claim\", \"text\": \"Assigning homework in elementary school can lead to negative emotions towards schoolwork and stress.\", \"evidence_docs\": [\"Doc 268\", \"Doc 2271\"]},\n    {\"claim\": \"Excessive homework can prevent children from spending time with family, forming friendships, and developing hobbies.\", \"text\": \"Excessive homework can prevent children from spending time with family, forming friendships, and developing hobbies.\", \"evidence_docs\": [\"Doc 1054\", \"Doc 532\"]},\n}\n\n# Convert the output to JSON\njson_output = json.dumps(output, indent=4)\n\n# Print the JSON output\nprint(json_output)\n```",
+        "evidence_docs": [
+          268,
+          3872,
+          532
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_35",
+    "query": "Are Government Soda Taxes Fair?",
+    "summary": [
+      {
+        "text": "Research shows that soda taxes can be effective in reducing soda consumption, as seen in five large cities across the US that have implemented a soda tax, which have seen a 33% reduction in the volume of soda purchases since the tax went into effect.",
+        "evidence_docs": [
+          660
+        ]
+      },
+      {
+        "text": "Evidence from studies suggests that warning labels can reduce soda consumption, as seen in the John Hopkins Bloomberg School of Public Health study, which found that labels can reduce soda consumption.",
+        "evidence_docs": [
+          769,
+          96
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_36",
+    "query": "Is There Life After Death?",
+    "summary": [
+      {
+        "claim": "There is life after death",
+        "perspectives": [
+          {
+            "text": "While there are many things we don’t know about the world, physics professor Sean Carroll contends that life after death is impossible. While there are many things we don’t know about the world, he says, we do know about the particles that make up the human body – and those don’t go anywhere after the body dies. Because consciousness is part of the physical body, it dies along with the rest of a person. Unlike other uncertainties in life, this concept is relatively straightforward: With death, life ends.",
+            "evidence_docs": [
+              "Doc 226"
+            ]
+          },
+          {
+            "text": "We usually focus on the question of whether life stops, not necessarily when life stops. Sources suggest that death may be a more gradual process than previously thought. For instance, research has found that our cells work hard at keeping us alive – perhaps even after we die.",
+            "evidence_docs": [
+              "Doc 1226"
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "There is no life after death",
+        "perspectives": [
+          {
+            "text": "By definition, death is the cessation of life – so, by all logic, there is no life after death. In this vein, physics professor Sean Carroll contends that life after death is impossible.",
+            "evidence_docs": [
+              "Doc 226",
+              "Doc 1"
+            ]
+          },
+          {
+            "text": "Contrary to popular belief, the death penalty is actually more expensive than keeping an inmate in prison, even for life.",
+            "evidence_docs": [
+              "Doc 118"
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_37",
+    "query": "Is Cognitive Behavioral Therapy (CBT) Effective?",
+    "summary": [
+      {
+        "claim": "CBT can be effective in solving problems by changing one’s attitude and improving daily thoughts.",
+        "perspectives": [
+          {
+            "text": "CBT helps individuals identify triggers that contribute to their problems and work on skills to combat those triggers.",
+            "evidence_docs": [
+              130
+            ]
+          },
+          {
+            "text": "CBT looks for practical ways to improve one’s thoughts on a daily basis, without digging too far into the past.",
+            "evidence_docs": [
+              1026
+            ]
+          },
+          {
+            "text": "CBT is known to have very fast results in comparison to other forms of therapy.",
+            "evidence_docs": [
+              69
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "CBT may not be effective in solving deeper psychological issues and may only provide a temporary solution.",
+        "perspectives": [
+          {
+            "text": "CBT does not address childhood experiences or other family-oriented feelings, which might play a big role in one’s behavior or growth as an individual.",
+            "evidence_docs": [
+              496
+            ]
+          },
+          {
+            "text": "CBT might only be a temporary solution for a bigger problem that needs to be confronted.",
+            "evidence_docs": [
+              496
+            ]
+          },
+          {
+            "text": "The goal-oriented nature of CBT makes it difficult for empathy to be present, which can render the therapy useless for some patients.",
+            "evidence_docs": [
+              814
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_38",
+    "query": "Is Scientology a Religion?",
+    "summary": [
+      {
+        "claim": "Scientology is a religion",
+        "perspectives": [
+          {
+            "text": "Scientology shares characteristics with other religions and provides an origin story for the ills of man, and it is arguably no more (or less) far-fetched than those espoused by other religions.",
+            "evidence_docs": [
+              "Doc 417"
+            ]
+          },
+          {
+            "text": "Many argue that Scientology is not a religion because the church requires payment for its services, but trading capital for religious guidance is as old as religion itself.",
+            "evidence_docs": [
+              "Doc 404"
+            ]
+          },
+          {
+            "text": "Salvation is central concept in most religions, and Scientologists genuinely believe the religion promotes their spiritual progress.",
+            "evidence_docs": [
+              "Doc 914"
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Scientology is not a religion",
+        "perspectives": [
+          {
+            "text": "In Scientology, the path to spiritual freedom is paved with corporal bondage, some detractors allege.",
+            "evidence_docs": [
+              "Doc 255"
+            ]
+          },
+          {
+            "text": "To say religion's a purely positive force in the world is implausible.",
+            "evidence_docs": [
+              "Doc 3676"
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_39",
+    "query": "Should bible stories be regarded as history?",
+    "summary": [
+      {
+        "text": "The Bible stories can be regarded as history, as they are the historical representation of what people needed at that time and the way they thought, acted and lived.",
+        "evidence_docs": [
+          "Doc 207"
+        ],
+        "reference": "Doc 207"
+      },
+      {
+        "text": "The Bible stories can be regarded as history, as they give us a single voice across 2,000 years and corroborate with other ancient histories.",
+        "evidence_docs": [
+          "Doc 334"
+        ],
+        "reference": "Doc 334"
+      },
+      {
+        "text": "The Bible stories can be regarded as history, as they contain a moral message and are passed down relatively accurately.",
+        "evidence_docs": [
+          "Doc 1057"
+        ],
+        "reference": "Doc 1057"
+      },
+      {
+        "text": "The Bible stories cannot be regarded as history, as they rely on an outdated understanding of the world and are not supported by scientific evidence.",
+        "evidence_docs": [
+          "Doc 333"
+        ],
+        "reference": "Doc 333"
+      },
+      {
+        "text": "The Bible stories cannot be regarded as history, as they are often used to whitewash history and suppress critical thinking.",
+        "evidence_docs": [
+          "Doc 2333"
+        ],
+        "reference": "Doc 2333"
+      }
+    ],
+    "metrics": null
+  }
+]
